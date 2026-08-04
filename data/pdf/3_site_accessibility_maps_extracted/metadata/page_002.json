@@ -1,0 +1,125 @@
+{
+  "page_num": 2,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:54:22.876483+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 177.0,
+        "x2": 1140.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8606483936309814,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_001",
+      "coordinates": {
+        "x1": 1990.0,
+        "y1": 177.0,
+        "x2": 2195.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8150589466094971,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_002",
+      "coordinates": {
+        "x1": 352.0,
+        "y1": 290.0,
+        "x2": 2123.0,
+        "y2": 1334.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9633430242538452,
+      "reading_order": 3,
+      "text": "The image is a geographical map centered on the city of Varanasi, India. The map visualizes a specific area of interest, likely related to a security or surveillance operation. The central focus is a large, red shaded region labeled \"SITE,\" which encompasses the city of Varanasi and the surrounding areas. A black dot labeled \"Varanasi\" is located within this red zone. \n\nSurrounding the red zone are concentric circles marked with distances in kilometers (5 KM, 10 KM, 15 KM, 20 KM), indicating a radius of influence or coverage area. A black dot labeled \"SITE\" is also located within the 5 KM radius. \n\nThe map highlights several key locations and transportation routes. To the north, \"VARANASI AIRPORT\" is marked, and roads connect to \"TO LUCKNOW\" and \"TO AZAMGARH.\" To the east, \"TO PATNA\" is indicated, with roads leading to \"Chambepur\" and \"Narpatpur.\" To the south, \"MUGHAL-SARAI RAILWAY STATION\" is located, with roads leading to \"Mughal Sarai\" and \"To Kolkata.\" To the west, \"TO ALLAHABAD\" is shown, with roads connecting to \"Uparwar\" and \"Lohta.\" Major rivers, including the Ganges, are depicted in blue. The map serves to geographically locate the operational site relative to major cities and transport hubs."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_003",
+      "coordinates": {
+        "x1": 359.0,
+        "y1": 1356.0,
+        "x2": 801.0,
+        "y2": 1402.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.8610475659370422,
+      "reading_order": 4,
+      "text": "Source: Google Maps + JST"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_004",
+      "coordinates": {
+        "x1": 695.0,
+        "y1": 1437.0,
+        "x2": 1780.0,
+        "y2": 1493.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8715204000473022,
+      "reading_order": 5,
+      "text": "Figure 5.3.1 Accessibility to the Site (Regional Level)"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_005",
+      "coordinates": {
+        "x1": 352.0,
+        "y1": 1580.0,
+        "x2": 2127.0,
+        "y2": 2648.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9727849960327148,
+      "reading_order": 6,
+      "text": "The image is a geographical map of a section of Kolkata, India, highlighting proposed metro station locations and their proximity to a specific site. The map features a dense network of roads, labeled neighborhoods (colonies), and bodies of water. \n\n**Key Elements:**\n- **Varanasi Railway Station:** Located in the northwest, near the junction of Varanasi Road and the river.\n- **Vidhyapeeth Road Metro Station:** Labeled as 'PROPOSED' in the center-left. It is situated within a red dashed circle labeled '0.5 KM'.\n- **Site:** A red rectangular marker labeled 'SITE' is located in the central-lower area, roughly equidistant from the two proposed stations.\n- **Rathyatra Metro Station:** Labeled as 'PROPOSED' in the bottom-center. It is located within a red dashed circle labeled '1.0 KM'.\n- **Dasheswamed H Ghat:** Located in the southeast, near the Hooghly River.\n\n**Distances:**\n- The Vidhyapeeth Road station is 0.5 km from the site.\n- The Rathyatra station is 1.0 km from the site.\n- The Varanasi station is 1.5 km from the site.\n- The Dasashwamedh Ghat is 2.5 km from the site.\n\nThe map uses a standard cartographic style with black roads, blue water bodies, and green parks. The text is primarily in English with some labels in Bengali script."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_006",
+      "coordinates": {
+        "x1": 360.0,
+        "y1": 2662.0,
+        "x2": 799.0,
+        "y2": 2707.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.8239161372184753,
+      "reading_order": 7,
+      "text": "Source: Google Maps + JST"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_007",
+      "coordinates": {
+        "x1": 741.0,
+        "y1": 2742.0,
+        "x2": 1734.0,
+        "y2": 2798.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8623621463775635,
+      "reading_order": 8,
+      "text": "Figure 5.3.2 Accessibility to the Site (City Level)"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_2_block_008",
+      "coordinates": {
+        "x1": 1191.0,
+        "y1": 3282.0,
+        "x2": 1289.0,
+        "y2": 3330.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.6666427254676819,
+      "reading_order": 9,
+      "text": "5-17"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "page_num": 2,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:53:57.710657+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8692703247070312,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_001",
+      "coordinates": {
+        "x1": 1989.0,
+        "y1": 176.0,
+        "x2": 2195.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8489684462547302,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_002",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 371.0,
+        "x2": 2193.0,
+        "y2": 499.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8938263654708862,
+      "reading_order": 3,
+      "text": "CHAPTER 5. STUDY ON THE POSSIBILITY OF ESTABLISHMENT\nOF VARANASI CONVENTION CENTRE"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_003",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 649.0,
+        "x2": 989.0,
+        "y2": 704.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8562486171722412,
+      "reading_order": 4,
+      "text": "5.1. Overview of Varanasi City"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_004",
+      "coordinates": {
+        "x1": 282.0,
+        "y1": 751.0,
+        "x2": 2196.0,
+        "y2": 1015.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9468070268630981,
+      "reading_order": 5,
+      "text": "Varanasi is a city on the banks of Ganga River in UP State. This city is considered as one of the holiest\ncities in Hinduism and Jainism, and has played an important role in the development of Buddhism as\nwell. It has been a cultural centre of North India for thousands of years and is a major centre for\npilgrimage."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_005",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1057.0,
+        "x2": 2195.0,
+        "y2": 1250.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9367033243179321,
+      "reading_order": 6,
+      "text": "It is considered one of the oldest continuously inhabited cities in the world. The city of Varanasi is\narchaeologically proven to have been continuously inhabited by humans since ca. 800 BC and therefore\ndescribed as one of the most ancient and continuously living cities in the world."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_006",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 1298.0,
+        "x2": 872.0,
+        "y2": 1354.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8512967228889465,
+      "reading_order": 7,
+      "text": "(1) Geographical Location"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_007",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1395.0,
+        "x2": 1365.0,
+        "y2": 1870.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9511817693710327,
+      "reading_order": 8,
+      "text": "Varanasi City is the centre of Varanasi District in UP State\nwhich has 71 districts. Varanasi City is located in 25^∘15' to\n25^∘22' north latitude and 82^∘57' to 83^∘01' east longitude,\n80.71m above sea level, with the state capital Lucknow\n320 Km south-east and Allahabad, 121 Km east. Ganga\nriver flows from south to north of Varanasi and has the\nworld famous Ghats on the West side bank."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_008",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1913.0,
+        "x2": 1366.0,
+        "y2": 2175.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9476005434989929,
+      "reading_order": 9,
+      "text": "Traditional etymology of \"Varanasi\" is said to come from\nthe two Ganges tributaries forming the city's\nborders: Varuna in northern Varanasi, and Assi a small\nstream in the southern part of the city."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_009",
+      "coordinates": {
+        "x1": 1430.0,
+        "y1": 1353.0,
+        "x2": 2151.0,
+        "y2": 2099.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9231029152870178,
+      "reading_order": 10,
+      "text": "The image is a composite geographical map focusing on the Himalayan region, specifically the Ganga Basin. It is divided into three panels labeled A, B, and C.\n\n**Panel A (Main Map):**\n- **Type:** Regional map with a scale bar (300 km).\n- **Orientation:** North is indicated by a compass rose.\n- **Geographic Features:** The map shows the Himalayan mountain range running diagonally from the top left to the bottom right. Major rivers include the Ganga, Yamuna, Jhelum, Chenab, and Indus. Key cities are labeled, including Delhi, Haridwar, Varanasi, Patna, and Kanpur. The Southern Plateau is labeled at the bottom.\n- **Inset:** An inset map in the top right corner shows the location of the study site, marked as \"GB Ganga Basin\" within the Himalayan region.\n\n**Panel B (Top Right Inset):**\n- **Type:** Regional map with a scale bar (10 Km).\n- **Focus:** The area around Varanasi.\n- **Features:** Shows the Ganga River, Varanasi city, and the surrounding \"Varanasi ranges\" (likely the Vindhyas).\n\n**Panel C (Bottom Right Inset):**\n- **Type:** Regional map with a scale bar (1 Km).\n- **Focus:** The area around Varanasi.\n- **Features:** Shows the Ganga River, Varanasi city, and the \"Varanasi hills\" (likely the Purvanchal range).\n\n**Data Distribution:**\n- The map uses a grayscale color scheme to differentiate land from water.\n- The main map covers a large area, while the two insets provide detailed views of the Varanasi region."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_010",
+      "coordinates": {
+        "x1": 1428.0,
+        "y1": 2111.0,
+        "x2": 2015.0,
+        "y2": 2156.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.4536484181880951,
+      "reading_order": 11,
+      "text": "Source: https://www.researchgate.net/"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_011",
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 2220.0,
+        "x2": 578.0,
+        "y2": 2274.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8513000011444092,
+      "reading_order": 12,
+      "text": "(2) Climate"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_012",
+      "coordinates": {
+        "x1": 1435.0,
+        "y1": 2190.0,
+        "x2": 2139.0,
+        "y2": 2243.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8327289819717407,
+      "reading_order": 13,
+      "text": "Figure 5.1.1 Location of Varanasi"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_013",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2323.0,
+        "x2": 2196.0,
+        "y2": 2791.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9624265432357788,
+      "reading_order": 14,
+      "text": "Varanasi experiences a humid subtropical climate with large variations between summer and winter\ntemperatures. The dry summer starts in April and lasts until June, followed by the monsoon season from\nJuly to October. The temperature ranges between 22 and 46 ^∘C (72 and 115 ^∘F) in summer. Winter in\nVaranasi has very large diurnal variations, with warm days and  cold nights. Cold waves from the\nHimalayan region cause temperatures to dip across the city in winter from December to February and\ntemperatures below 5 ^∘C (41 ^∘F) are not uncommon. The average annual rainfall is 1,110 mm (44 in).\nFog is common in winter, while hot dry winds, called loo, blow in summer."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_2_block_014",
+      "coordinates": {
+        "x1": 1206.0,
+        "y1": 3283.0,
+        "x2": 1273.0,
+        "y2": 3329.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7139296531677246,
+      "reading_order": 15,
+      "text": "5-1"
+    }
+  ]
+}

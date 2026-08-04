@@ -1,0 +1,251 @@
+source_place_id,source_place_name,source_coordinates,nearby_rank,nearby_place_id,nearby_place_name,nearby_coordinates,walking_distance,walking_time,driving_distance,driving_time
+VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",1,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",100 m,1 mins,0.1 km,2 mins
+VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",2,VNS041,Sheetla Ghat,"25.307, 83.0102",100 m,1 mins,0.1 km,2 mins
+VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",3,VNS042,Ahilyabai Ghat,"25.3068, 83.0101",130 m,1 mins,0.13 km,2 mins
+VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",4,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",170 m,2 mins,0.17 km,2 mins
+VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",5,VNS043,Munshi Ghat,"25.3062, 83.0098",230 m,2 mins,0.23 km,2 mins
+VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",1,VNS015,Annapurna Temple,"25.3106, 83.0104",100 m,1 mins,0.1 km,2 mins
+VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",2,VNS030,Vishwanath Gali,"25.31, 83.009",270 m,3 mins,0.27 km,2 mins
+VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",3,VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",350 m,4 mins,0.35 km,2 mins
+VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",4,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",400 m,4 mins,0.4 km,2 mins
+VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",5,VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",450 m,5 mins,0.45 km,2 mins
+VNS003,Manikarnika Ghat,"25.3108, 83.0143",1,VNS046,Manikarnika Kund,"25.311, 83.0142",100 m,1 mins,0.1 km,2 mins
+VNS003,Manikarnika Ghat,"25.3108, 83.0143",2,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",160 m,1 mins,0.16 km,2 mins
+VNS003,Manikarnika Ghat,"25.3108, 83.0143",3,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",200 m,2 mins,0.2 km,2 mins
+VNS003,Manikarnika Ghat,"25.3108, 83.0143",4,VNS044,Bhonsale Ghat,"25.313, 83.016",400 m,4 mins,0.4 km,2 mins
+VNS003,Manikarnika Ghat,"25.3108, 83.0143",5,VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",480 m,5 mins,0.48 km,2 mins
+VNS004,Assi Ghat,"25.2882, 82.9996",1,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",100 m,1 mins,0.1 km,2 mins
+VNS004,Assi Ghat,"25.2882, 82.9996",2,VNS035,Tulsi Ghat,"25.2895, 83.001",270 m,3 mins,0.27 km,2 mins
+VNS004,Assi Ghat,"25.2882, 82.9996",3,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",360 m,4 mins,0.36 km,2 mins
+VNS004,Assi Ghat,"25.2882, 82.9996",4,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",630 m,7 mins,0.63 km,2 mins
+VNS004,Assi Ghat,"25.2882, 82.9996",5,VNS023,Chet Singh Ghat,"25.2936, 83.0035",970 m,11 mins,0.97 km,3 mins
+VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",1,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",190 m,2 mins,0.19 km,2 mins
+VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",2,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",260 m,3 mins,0.26 km,2 mins
+VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",3,VNS028,Japanese Temple Sarnath,"25.383, 83.021",360 m,4 mins,0.36 km,2 mins
+VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",4,VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",380 m,4 mins,0.38 km,2 mins
+VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",5,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",410 m,4 mins,0.41 km,2 mins
+VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",1,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",190 m,2 mins,0.19 km,2 mins
+VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",2,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",220 m,2 mins,0.22 km,2 mins
+VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",3,VNS028,Japanese Temple Sarnath,"25.383, 83.021",380 m,4 mins,0.38 km,2 mins
+VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",4,VNS027,Thai Temple Sarnath,"25.3825, 83.0195",400 m,4 mins,0.4 km,2 mins
+VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",5,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",450 m,5 mins,0.45 km,2 mins
+VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",1,VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",110 m,1 mins,0.11 km,2 mins
+VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",2,VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",570 m,6 mins,0.57 km,2 mins
+VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",3,VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",2.26 km,27 mins,2.26 km,7 mins
+VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",4,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",2.67 km,32 mins,2.67 km,8 mins
+VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",5,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",2.93 km,35 mins,2.93 km,9 mins
+VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",1,VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",570 m,6 mins,0.57 km,2 mins
+VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",2,VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",590 m,7 mins,0.59 km,2 mins
+VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",3,VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",2.74 km,32 mins,2.74 km,9 mins
+VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",4,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",3.12 km,37 mins,3.12 km,10 mins
+VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",5,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",3.39 km,40 mins,3.39 km,11 mins
+VNS009,Ramnagar Fort,"25.2829, 83.0238",1,VNS050,Chintamani Ganesh Temple,"25.281, 83.027",520 m,6 mins,0.52 km,2 mins
+VNS009,Ramnagar Fort,"25.2829, 83.0238",2,VNS023,Chet Singh Ghat,"25.2936, 83.0035",3.19 km,38 mins,3.19 km,10 mins
+VNS009,Ramnagar Fort,"25.2829, 83.0238",3,VNS035,Tulsi Ghat,"25.2895, 83.001",3.25 km,39 mins,3.25 km,10 mins
+VNS009,Ramnagar Fort,"25.2829, 83.0238",4,VNS034,Harishchandra Ghat,"25.2965, 83.005",3.27 km,39 mins,3.27 km,10 mins
+VNS009,Ramnagar Fort,"25.2829, 83.0238",5,VNS033,Kedar Ghat,"25.298, 83.006",3.31 km,39 mins,3.31 km,11 mins
+VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",1,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",440 m,5 mins,0.44 km,2 mins
+VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",2,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",670 m,8 mins,0.67 km,2 mins
+VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",3,VNS004,Assi Ghat,"25.2882, 82.9996",1.01 km,12 mins,1.01 km,3 mins
+VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",4,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",1.01 km,12 mins,1.01 km,3 mins
+VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",5,VNS035,Tulsi Ghat,"25.2895, 83.001",1.27 km,15 mins,1.27 km,4 mins
+VNS011,Tulsi Manas Mandir,"25.2847, 82.997",1,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",270 m,3 mins,0.27 km,2 mins
+VNS011,Tulsi Manas Mandir,"25.2847, 82.997",2,VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",440 m,5 mins,0.44 km,2 mins
+VNS011,Tulsi Manas Mandir,"25.2847, 82.997",3,VNS004,Assi Ghat,"25.2882, 82.9996",630 m,7 mins,0.63 km,2 mins
+VNS011,Tulsi Manas Mandir,"25.2847, 82.997",4,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",630 m,7 mins,0.63 km,2 mins
+VNS011,Tulsi Manas Mandir,"25.2847, 82.997",5,VNS035,Tulsi Ghat,"25.2895, 83.001",900 m,10 mins,0.9 km,3 mins
+VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",1,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",270 m,3 mins,0.27 km,2 mins
+VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",2,VNS004,Assi Ghat,"25.2882, 82.9996",360 m,4 mins,0.36 km,2 mins
+VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",3,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",360 m,4 mins,0.36 km,2 mins
+VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",4,VNS035,Tulsi Ghat,"25.2895, 83.001",630 m,7 mins,0.63 km,2 mins
+VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",5,VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",670 m,8 mins,0.67 km,2 mins
+VNS013,Bharat Mata Mandir,"25.3175, 82.9892",1,VNS049,Batuk Bhairav Temple,"25.305, 82.992",1.91 km,22 mins,1.91 km,6 mins
+VNS013,Bharat Mata Mandir,"25.3175, 82.9892",2,VNS031,Thatheri Bazaar,"25.314, 83.0095",2.8 km,33 mins,2.8 km,9 mins
+VNS013,Bharat Mata Mandir,"25.3175, 82.9892",3,VNS029,Godowlia Market,"25.309, 83.008",2.85 km,34 mins,2.85 km,9 mins
+VNS013,Bharat Mata Mandir,"25.3175, 82.9892",4,VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",2.9 km,34 mins,2.9 km,9 mins
+VNS013,Bharat Mata Mandir,"25.3175, 82.9892",5,VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",2.9 km,34 mins,2.9 km,9 mins
+VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",1,VNS031,Thatheri Bazaar,"25.314, 83.0095",730 m,8 mins,0.73 km,2 mins
+VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",2,VNS024,Panchganga Ghat,"25.3156, 83.0181",1.14 km,13 mins,1.14 km,3 mins
+VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",3,VNS044,Bhonsale Ghat,"25.313, 83.016",1.15 km,13 mins,1.15 km,3 mins
+VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",4,VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",1.16 km,13 mins,1.16 km,3 mins
+VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",5,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",1.19 km,14 mins,1.19 km,3 mins
+VNS015,Annapurna Temple,"25.3106, 83.0104",1,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",100 m,1 mins,0.1 km,2 mins
+VNS015,Annapurna Temple,"25.3106, 83.0104",2,VNS030,Vishwanath Gali,"25.31, 83.009",210 m,2 mins,0.21 km,2 mins
+VNS015,Annapurna Temple,"25.3106, 83.0104",3,VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",330 m,3 mins,0.33 km,2 mins
+VNS015,Annapurna Temple,"25.3106, 83.0104",4,VNS029,Godowlia Market,"25.309, 83.008",400 m,4 mins,0.4 km,2 mins
+VNS015,Annapurna Temple,"25.3106, 83.0104",5,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",430 m,5 mins,0.43 km,2 mins
+VNS016,Chaukhandi Stupa,"25.3736, 83.0232",1,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",1.05 km,12 mins,1.05 km,3 mins
+VNS016,Chaukhandi Stupa,"25.3736, 83.0232",2,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",1.06 km,12 mins,1.06 km,3 mins
+VNS016,Chaukhandi Stupa,"25.3736, 83.0232",3,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",1.14 km,13 mins,1.14 km,3 mins
+VNS016,Chaukhandi Stupa,"25.3736, 83.0232",4,VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",1.23 km,14 mins,1.23 km,4 mins
+VNS016,Chaukhandi Stupa,"25.3736, 83.0232",5,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",1.24 km,14 mins,1.24 km,4 mins
+VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",1,VNS007,Banaras Hindu University (BHU),"25.2677, 82.9913",110 m,1 mins,0.11 km,2 mins
+VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",2,VNS008,New Vishwanath Temple (Shri Vishwanath Mandir / VT),"25.2657, 82.9877",590 m,7 mins,0.59 km,2 mins
+VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",3,VNS010,Sankat Mochan Hanuman Temple,"25.2818, 82.9972",2.33 km,27 mins,2.33 km,7 mins
+VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",4,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",2.73 km,32 mins,2.73 km,9 mins
+VNS017,Bharat Kala Bhavan Museum,"25.2671, 82.9918",5,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",2.99 km,35 mins,2.99 km,9 mins
+VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",1,VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",110 m,1 mins,0.11 km,2 mins
+VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",2,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",230 m,2 mins,0.23 km,2 mins
+VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",3,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",230 m,2 mins,0.23 km,2 mins
+VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",4,VNS041,Sheetla Ghat,"25.307, 83.0102",320 m,3 mins,0.32 km,2 mins
+VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",5,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",320 m,3 mins,0.32 km,2 mins
+VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",1,VNS045,Trilochan Ghat,"25.321, 83.023",1.56 km,18 mins,1.56 km,5 mins
+VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",2,VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",2.53 km,30 mins,2.53 km,8 mins
+VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",3,VNS024,Panchganga Ghat,"25.3156, 83.0181",2.61 km,31 mins,2.61 km,8 mins
+VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",4,VNS044,Bhonsale Ghat,"25.313, 83.016",3.09 km,37 mins,3.09 km,10 mins
+VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",5,VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",3.15 km,37 mins,3.15 km,10 mins
+VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",1,VNS004,Assi Ghat,"25.2882, 82.9996",100 m,1 mins,0.1 km,2 mins
+VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",2,VNS035,Tulsi Ghat,"25.2895, 83.001",270 m,3 mins,0.27 km,2 mins
+VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",3,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",360 m,4 mins,0.36 km,2 mins
+VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",4,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",630 m,7 mins,0.63 km,2 mins
+VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",5,VNS023,Chet Singh Ghat,"25.2936, 83.0035",970 m,11 mins,0.97 km,3 mins
+VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",1,VNS046,Manikarnika Kund,"25.311, 83.0142",190 m,2 mins,0.19 km,2 mins
+VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",2,VNS044,Bhonsale Ghat,"25.313, 83.016",200 m,2 mins,0.2 km,2 mins
+VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",3,VNS003,Manikarnika Ghat,"25.3108, 83.0143",200 m,2 mins,0.2 km,2 mins
+VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",4,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",360 m,4 mins,0.36 km,2 mins
+VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",5,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",610 m,7 mins,0.61 km,2 mins
+VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",1,VNS042,Ahilyabai Ghat,"25.3068, 83.0101",100 m,1 mins,0.1 km,2 mins
+VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",2,VNS043,Munshi Ghat,"25.3062, 83.0098",100 m,1 mins,0.1 km,2 mins
+VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",3,VNS041,Sheetla Ghat,"25.307, 83.0102",100 m,1 mins,0.1 km,2 mins
+VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",4,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",170 m,2 mins,0.17 km,2 mins
+VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",5,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",170 m,2 mins,0.17 km,2 mins
+VNS023,Chet Singh Ghat,"25.2936, 83.0035",1,VNS034,Harishchandra Ghat,"25.2965, 83.005",480 m,5 mins,0.48 km,2 mins
+VNS023,Chet Singh Ghat,"25.2936, 83.0035",2,VNS035,Tulsi Ghat,"25.2895, 83.001",700 m,8 mins,0.7 km,2 mins
+VNS023,Chet Singh Ghat,"25.2936, 83.0035",3,VNS033,Kedar Ghat,"25.298, 83.006",740 m,8 mins,0.74 km,2 mins
+VNS023,Chet Singh Ghat,"25.2936, 83.0035",4,VNS004,Assi Ghat,"25.2882, 82.9996",970 m,11 mins,0.97 km,3 mins
+VNS023,Chet Singh Ghat,"25.2936, 83.0035",5,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",970 m,11 mins,0.97 km,3 mins
+VNS024,Panchganga Ghat,"25.3156, 83.0181",1,VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",100 m,1 mins,0.1 km,2 mins
+VNS024,Panchganga Ghat,"25.3156, 83.0181",2,VNS044,Bhonsale Ghat,"25.313, 83.016",480 m,5 mins,0.48 km,2 mins
+VNS024,Panchganga Ghat,"25.3156, 83.0181",3,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",680 m,8 mins,0.68 km,2 mins
+VNS024,Panchganga Ghat,"25.3156, 83.0181",4,VNS046,Manikarnika Kund,"25.311, 83.0142",870 m,10 mins,0.87 km,2 mins
+VNS024,Panchganga Ghat,"25.3156, 83.0181",5,VNS003,Manikarnika Ghat,"25.3108, 83.0143",890 m,10 mins,0.89 km,2 mins
+VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",1,VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",140 m,1 mins,0.14 km,2 mins
+VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",2,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",260 m,3 mins,0.26 km,2 mins
+VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",3,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",450 m,5 mins,0.45 km,2 mins
+VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",4,VNS028,Japanese Temple Sarnath,"25.383, 83.021",510 m,6 mins,0.51 km,2 mins
+VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",5,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",670 m,8 mins,0.67 km,2 mins
+VNS026,Tibetan Temple Sarnath,"25.38, 83.02",1,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",220 m,2 mins,0.22 km,2 mins
+VNS026,Tibetan Temple Sarnath,"25.38, 83.02",2,VNS027,Thai Temple Sarnath,"25.3825, 83.0195",380 m,4 mins,0.38 km,2 mins
+VNS026,Tibetan Temple Sarnath,"25.38, 83.02",3,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",410 m,4 mins,0.41 km,2 mins
+VNS026,Tibetan Temple Sarnath,"25.38, 83.02",4,VNS028,Japanese Temple Sarnath,"25.383, 83.021",470 m,5 mins,0.47 km,2 mins
+VNS026,Tibetan Temple Sarnath,"25.38, 83.02",5,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",670 m,8 mins,0.67 km,2 mins
+VNS027,Thai Temple Sarnath,"25.3825, 83.0195",1,VNS028,Japanese Temple Sarnath,"25.383, 83.021",220 m,2 mins,0.22 km,2 mins
+VNS027,Thai Temple Sarnath,"25.3825, 83.0195",2,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",380 m,4 mins,0.38 km,2 mins
+VNS027,Thai Temple Sarnath,"25.3825, 83.0195",3,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",400 m,4 mins,0.4 km,2 mins
+VNS027,Thai Temple Sarnath,"25.3825, 83.0195",4,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",480 m,5 mins,0.48 km,2 mins
+VNS027,Thai Temple Sarnath,"25.3825, 83.0195",5,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",690 m,8 mins,0.69 km,2 mins
+VNS028,Japanese Temple Sarnath,"25.383, 83.021",1,VNS027,Thai Temple Sarnath,"25.3825, 83.0195",220 m,2 mins,0.22 km,2 mins
+VNS028,Japanese Temple Sarnath,"25.383, 83.021",2,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",360 m,4 mins,0.36 km,2 mins
+VNS028,Japanese Temple Sarnath,"25.383, 83.021",3,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",380 m,4 mins,0.38 km,2 mins
+VNS028,Japanese Temple Sarnath,"25.383, 83.021",4,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",470 m,5 mins,0.47 km,2 mins
+VNS028,Japanese Temple Sarnath,"25.383, 83.021",5,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",510 m,6 mins,0.51 km,2 mins
+VNS029,Godowlia Market,"25.309, 83.008",1,VNS030,Vishwanath Gali,"25.31, 83.009",200 m,2 mins,0.2 km,2 mins
+VNS029,Godowlia Market,"25.309, 83.008",2,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",390 m,4 mins,0.39 km,2 mins
+VNS029,Godowlia Market,"25.309, 83.008",3,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",390 m,4 mins,0.39 km,2 mins
+VNS029,Godowlia Market,"25.309, 83.008",4,VNS015,Annapurna Temple,"25.3106, 83.0104",400 m,4 mins,0.4 km,2 mins
+VNS029,Godowlia Market,"25.309, 83.008",5,VNS041,Sheetla Ghat,"25.307, 83.0102",420 m,5 mins,0.42 km,2 mins
+VNS030,Vishwanath Gali,"25.31, 83.009",1,VNS029,Godowlia Market,"25.309, 83.008",200 m,2 mins,0.2 km,2 mins
+VNS030,Vishwanath Gali,"25.31, 83.009",2,VNS015,Annapurna Temple,"25.3106, 83.0104",210 m,2 mins,0.21 km,2 mins
+VNS030,Vishwanath Gali,"25.31, 83.009",3,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",270 m,3 mins,0.27 km,2 mins
+VNS030,Vishwanath Gali,"25.31, 83.009",4,VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",400 m,4 mins,0.4 km,2 mins
+VNS030,Vishwanath Gali,"25.31, 83.009",5,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",410 m,4 mins,0.41 km,2 mins
+VNS031,Thatheri Bazaar,"25.314, 83.0095",1,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",490 m,5 mins,0.49 km,2 mins
+VNS031,Thatheri Bazaar,"25.314, 83.0095",2,VNS015,Annapurna Temple,"25.3106, 83.0104",520 m,6 mins,0.52 km,2 mins
+VNS031,Thatheri Bazaar,"25.314, 83.0095",3,VNS030,Vishwanath Gali,"25.31, 83.009",600 m,7 mins,0.6 km,2 mins
+VNS031,Thatheri Bazaar,"25.314, 83.0095",4,VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",730 m,8 mins,0.73 km,2 mins
+VNS031,Thatheri Bazaar,"25.314, 83.0095",5,VNS029,Godowlia Market,"25.309, 83.008",780 m,9 mins,0.78 km,2 mins
+VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",1,VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",390 m,4 mins,0.39 km,2 mins
+VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",2,VNS033,Kedar Ghat,"25.298, 83.006",660 m,7 mins,0.66 km,2 mins
+VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",3,VNS034,Harishchandra Ghat,"25.2965, 83.005",840 m,10 mins,0.84 km,2 mins
+VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",4,VNS043,Munshi Ghat,"25.3062, 83.0098",1.01 km,12 mins,1.01 km,3 mins
+VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",5,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",1.06 km,12 mins,1.06 km,3 mins
+VNS033,Kedar Ghat,"25.298, 83.006",1,VNS034,Harishchandra Ghat,"25.2965, 83.005",260 m,3 mins,0.26 km,2 mins
+VNS033,Kedar Ghat,"25.298, 83.006",2,VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",660 m,7 mins,0.66 km,2 mins
+VNS033,Kedar Ghat,"25.298, 83.006",3,VNS023,Chet Singh Ghat,"25.2936, 83.0035",740 m,8 mins,0.74 km,2 mins
+VNS033,Kedar Ghat,"25.298, 83.006",4,VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",840 m,10 mins,0.84 km,2 mins
+VNS033,Kedar Ghat,"25.298, 83.006",5,VNS043,Munshi Ghat,"25.3062, 83.0098",1.33 km,15 mins,1.33 km,4 mins
+VNS034,Harishchandra Ghat,"25.2965, 83.005",1,VNS033,Kedar Ghat,"25.298, 83.006",260 m,3 mins,0.26 km,2 mins
+VNS034,Harishchandra Ghat,"25.2965, 83.005",2,VNS023,Chet Singh Ghat,"25.2936, 83.0035",480 m,5 mins,0.48 km,2 mins
+VNS034,Harishchandra Ghat,"25.2965, 83.005",3,VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",840 m,10 mins,0.84 km,2 mins
+VNS034,Harishchandra Ghat,"25.2965, 83.005",4,VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",910 m,10 mins,0.91 km,3 mins
+VNS034,Harishchandra Ghat,"25.2965, 83.005",5,VNS035,Tulsi Ghat,"25.2895, 83.001",1.18 km,14 mins,1.18 km,3 mins
+VNS035,Tulsi Ghat,"25.2895, 83.001",1,VNS004,Assi Ghat,"25.2882, 82.9996",270 m,3 mins,0.27 km,2 mins
+VNS035,Tulsi Ghat,"25.2895, 83.001",2,VNS020,Subah-e-Banaras at Assi Ghat,"25.2882, 82.9996",270 m,3 mins,0.27 km,2 mins
+VNS035,Tulsi Ghat,"25.2895, 83.001",3,VNS012,Durga Kund Temple (Durga Mandir),"25.2862, 82.9981",630 m,7 mins,0.63 km,2 mins
+VNS035,Tulsi Ghat,"25.2895, 83.001",4,VNS023,Chet Singh Ghat,"25.2936, 83.0035",700 m,8 mins,0.7 km,2 mins
+VNS035,Tulsi Ghat,"25.2895, 83.001",5,VNS011,Tulsi Manas Mandir,"25.2847, 82.997",900 m,10 mins,0.9 km,3 mins
+VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",1,VNS024,Panchganga Ghat,"25.3156, 83.0181",100 m,1 mins,0.1 km,2 mins
+VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",2,VNS044,Bhonsale Ghat,"25.313, 83.016",560 m,6 mins,0.56 km,2 mins
+VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",3,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",770 m,9 mins,0.77 km,2 mins
+VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",4,VNS046,Manikarnika Kund,"25.311, 83.0142",950 m,11 mins,0.95 km,3 mins
+VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",5,VNS003,Manikarnika Ghat,"25.3108, 83.0143",970 m,11 mins,0.97 km,3 mins
+VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",1,VNS003,Manikarnika Ghat,"25.3108, 83.0143",160 m,1 mins,0.16 km,2 mins
+VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",2,VNS046,Manikarnika Kund,"25.311, 83.0142",180 m,2 mins,0.18 km,2 mins
+VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",3,VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",320 m,3 mins,0.32 km,2 mins
+VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",4,VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",320 m,3 mins,0.32 km,2 mins
+VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",5,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",360 m,4 mins,0.36 km,2 mins
+VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",1,VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",390 m,4 mins,0.39 km,2 mins
+VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",2,VNS033,Kedar Ghat,"25.298, 83.006",840 m,10 mins,0.84 km,2 mins
+VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",3,VNS034,Harishchandra Ghat,"25.2965, 83.005",910 m,10 mins,0.91 km,3 mins
+VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",4,VNS023,Chet Singh Ghat,"25.2936, 83.0035",1.23 km,14 mins,1.23 km,4 mins
+VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",5,VNS049,Batuk Bhairav Temple,"25.305, 82.992",1.35 km,16 mins,1.35 km,4 mins
+VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",1,VNS018,Jantar Mantar Varanasi (Man Singh Observatory),"25.3087, 83.0116",110 m,1 mins,0.11 km,2 mins
+VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",2,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",260 m,3 mins,0.26 km,2 mins
+VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",3,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",260 m,3 mins,0.26 km,2 mins
+VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",4,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",320 m,3 mins,0.32 km,2 mins
+VNS039,Vishalakshi Gauri Temple,"25.3082, 83.0122",5,VNS041,Sheetla Ghat,"25.307, 83.0102",330 m,3 mins,0.33 km,2 mins
+VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",1,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",100 m,1 mins,0.1 km,2 mins
+VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",2,VNS041,Sheetla Ghat,"25.307, 83.0102",100 m,1 mins,0.1 km,2 mins
+VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",3,VNS042,Ahilyabai Ghat,"25.3068, 83.0101",130 m,1 mins,0.13 km,2 mins
+VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",4,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",170 m,2 mins,0.17 km,2 mins
+VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",5,VNS043,Munshi Ghat,"25.3062, 83.0098",230 m,2 mins,0.23 km,2 mins
+VNS041,Sheetla Ghat,"25.307, 83.0102",1,VNS042,Ahilyabai Ghat,"25.3068, 83.0101",100 m,1 mins,0.1 km,2 mins
+VNS041,Sheetla Ghat,"25.307, 83.0102",2,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",100 m,1 mins,0.1 km,2 mins
+VNS041,Sheetla Ghat,"25.307, 83.0102",3,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",100 m,1 mins,0.1 km,2 mins
+VNS041,Sheetla Ghat,"25.307, 83.0102",4,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",100 m,1 mins,0.1 km,2 mins
+VNS041,Sheetla Ghat,"25.307, 83.0102",5,VNS043,Munshi Ghat,"25.3062, 83.0098",130 m,1 mins,0.13 km,2 mins
+VNS042,Ahilyabai Ghat,"25.3068, 83.0101",1,VNS041,Sheetla Ghat,"25.307, 83.0102",100 m,1 mins,0.1 km,2 mins
+VNS042,Ahilyabai Ghat,"25.3068, 83.0101",2,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",100 m,1 mins,0.1 km,2 mins
+VNS042,Ahilyabai Ghat,"25.3068, 83.0101",3,VNS043,Munshi Ghat,"25.3062, 83.0098",100 m,1 mins,0.1 km,2 mins
+VNS042,Ahilyabai Ghat,"25.3068, 83.0101",4,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",130 m,1 mins,0.13 km,2 mins
+VNS042,Ahilyabai Ghat,"25.3068, 83.0101",5,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",130 m,1 mins,0.13 km,2 mins
+VNS043,Munshi Ghat,"25.3062, 83.0098",1,VNS022,Darbhanga Ghat & BrijRama Palace,"25.3065, 83.01",100 m,1 mins,0.1 km,2 mins
+VNS043,Munshi Ghat,"25.3062, 83.0098",2,VNS042,Ahilyabai Ghat,"25.3068, 83.0101",100 m,1 mins,0.1 km,2 mins
+VNS043,Munshi Ghat,"25.3062, 83.0098",3,VNS041,Sheetla Ghat,"25.307, 83.0102",130 m,1 mins,0.13 km,2 mins
+VNS043,Munshi Ghat,"25.3062, 83.0098",4,VNS001,Dashashwamedh Ghat,"25.3076, 83.0104",230 m,2 mins,0.23 km,2 mins
+VNS043,Munshi Ghat,"25.3062, 83.0098",5,VNS040,Ganges River Boat Ride (Central Ghats),"25.3076, 83.0104",230 m,2 mins,0.23 km,2 mins
+VNS044,Bhonsale Ghat,"25.313, 83.016",1,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",200 m,2 mins,0.2 km,2 mins
+VNS044,Bhonsale Ghat,"25.313, 83.016",2,VNS046,Manikarnika Kund,"25.311, 83.0142",390 m,4 mins,0.39 km,2 mins
+VNS044,Bhonsale Ghat,"25.313, 83.016",3,VNS003,Manikarnika Ghat,"25.3108, 83.0143",400 m,4 mins,0.4 km,2 mins
+VNS044,Bhonsale Ghat,"25.313, 83.016",4,VNS024,Panchganga Ghat,"25.3156, 83.0181",480 m,5 mins,0.48 km,2 mins
+VNS044,Bhonsale Ghat,"25.313, 83.016",5,VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",560 m,6 mins,0.56 km,2 mins
+VNS045,Trilochan Ghat,"25.321, 83.023",1,VNS036,Alamgir Mosque (Beniyabagh / Panchganga),"25.316, 83.0185",970 m,11 mins,0.97 km,3 mins
+VNS045,Trilochan Ghat,"25.321, 83.023",2,VNS024,Panchganga Ghat,"25.3156, 83.0181",1.05 km,12 mins,1.05 km,3 mins
+VNS045,Trilochan Ghat,"25.321, 83.023",3,VNS044,Bhonsale Ghat,"25.313, 83.016",1.53 km,18 mins,1.53 km,5 mins
+VNS045,Trilochan Ghat,"25.321, 83.023",4,VNS019,Namo Ghat (Khidkiya Ghat),"25.3283, 83.0312",1.56 km,18 mins,1.56 km,5 mins
+VNS045,Trilochan Ghat,"25.321, 83.023",5,VNS014,Kaal Bhairav Temple,"25.3188, 83.0105",1.73 km,20 mins,1.73 km,5 mins
+VNS046,Manikarnika Kund,"25.311, 83.0142",1,VNS003,Manikarnika Ghat,"25.3108, 83.0143",100 m,1 mins,0.1 km,2 mins
+VNS046,Manikarnika Kund,"25.311, 83.0142",2,VNS037,Lalita Ghat & Nepali Temple,"25.31, 83.0135",180 m,2 mins,0.18 km,2 mins
+VNS046,Manikarnika Kund,"25.311, 83.0142",3,VNS021,Scindia Ghat & Submerged Shiva Temple,"25.312, 83.015",190 m,2 mins,0.19 km,2 mins
+VNS046,Manikarnika Kund,"25.311, 83.0142",4,VNS044,Bhonsale Ghat,"25.313, 83.016",390 m,4 mins,0.39 km,2 mins
+VNS046,Manikarnika Kund,"25.311, 83.0142",5,VNS002,Kashi Vishwanath Temple,"25.3109, 83.0107",480 m,5 mins,0.48 km,2 mins
+VNS047,Markandeya Mahadev Temple (Kaethi),"25.485, 83.181",1,VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",26.19 km,5h 14m,26.19 km,1h 27m
+VNS047,Markandeya Mahadev Temple (Kaethi),"25.485, 83.181",2,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",26.27 km,5h 15m,26.27 km,1h 27m
+VNS047,Markandeya Mahadev Temple (Kaethi),"25.485, 83.181",3,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",26.52 km,5h 18m,26.52 km,1h 28m
+VNS047,Markandeya Mahadev Temple (Kaethi),"25.485, 83.181",4,VNS028,Japanese Temple Sarnath,"25.383, 83.021",26.55 km,5h 18m,26.55 km,1h 28m
+VNS047,Markandeya Mahadev Temple (Kaethi),"25.485, 83.181",5,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",26.71 km,5h 20m,26.71 km,1h 29m
+VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",1,VNS025,Mulagandha Kuti Vihar,"25.3818, 83.0245",140 m,1 mins,0.14 km,2 mins
+VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",2,VNS005,Sarnath Archaeological Site & Dhamek Stupa,"25.3812, 83.0227",380 m,4 mins,0.38 km,2 mins
+VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",3,VNS006,Sarnath Archaeological Museum,"25.3805, 83.0215",560 m,6 mins,0.56 km,2 mins
+VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",4,VNS028,Japanese Temple Sarnath,"25.383, 83.021",650 m,7 mins,0.65 km,2 mins
+VNS048,Mrigadayavan Zoo / Deer Park Sarnath,"25.3815, 83.0255",5,VNS026,Tibetan Temple Sarnath,"25.38, 83.02",780 m,9 mins,0.78 km,2 mins
+VNS049,Batuk Bhairav Temple,"25.305, 82.992",1,VNS038,Tilbhandeshwar Mahadev Temple,"25.3015, 83.0012",1.35 km,16 mins,1.35 km,4 mins
+VNS049,Batuk Bhairav Temple,"25.305, 82.992",2,VNS032,Varanasi Silk Weaving Village (Peoplani / Madanpura),"25.302, 83.004",1.69 km,20 mins,1.69 km,5 mins
+VNS049,Batuk Bhairav Temple,"25.305, 82.992",3,VNS013,Bharat Mata Mandir,"25.3175, 82.9892",1.91 km,22 mins,1.91 km,6 mins
+VNS049,Batuk Bhairav Temple,"25.305, 82.992",4,VNS033,Kedar Ghat,"25.298, 83.006",2.17 km,26 mins,2.17 km,7 mins
+VNS049,Batuk Bhairav Temple,"25.305, 82.992",5,VNS034,Harishchandra Ghat,"25.2965, 83.005",2.18 km,26 mins,2.18 km,7 mins
+VNS050,Chintamani Ganesh Temple,"25.281, 83.027",1,VNS009,Ramnagar Fort,"25.2829, 83.0238",520 m,6 mins,0.52 km,2 mins
+VNS050,Chintamani Ganesh Temple,"25.281, 83.027",2,VNS023,Chet Singh Ghat,"25.2936, 83.0035",3.71 km,44 mins,3.71 km,12 mins
+VNS050,Chintamani Ganesh Temple,"25.281, 83.027",3,VNS035,Tulsi Ghat,"25.2895, 83.001",3.75 km,45 mins,3.75 km,12 mins
+VNS050,Chintamani Ganesh Temple,"25.281, 83.027",4,VNS034,Harishchandra Ghat,"25.2965, 83.005",3.79 km,45 mins,3.79 km,12 mins
+VNS050,Chintamani Ganesh Temple,"25.281, 83.027",5,VNS033,Kedar Ghat,"25.298, 83.006",3.83 km,45 mins,3.83 km,12 mins

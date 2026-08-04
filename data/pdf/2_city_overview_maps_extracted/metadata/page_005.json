@@ -1,0 +1,203 @@
+{
+  "page_num": 5,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:53:58.118781+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8651432394981384,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_001",
+      "coordinates": {
+        "x1": 1990.0,
+        "y1": 176.0,
+        "x2": 2194.0,
+        "y2": 225.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8465443849563599,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_002",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 308.0,
+        "x2": 2196.0,
+        "y2": 637.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9606090784072876,
+      "reading_order": 3,
+      "text": "VDA, the ensuring agency of the planned expansion of the city, is also planning a Varanasi Metro as a\npart of Master Plan –Varanasi 2031. Two corridors are proposed: Corridor 1 connects between BHU\nand BHEL (Bharat Heavy Electricals Ltd) and Corridor 2 between Benia Bagh and Sarnath. The traffic\ndemand estimated for the corridors of Varanasi Metro is about 24,000 passengers for Corridor 1 and\n18,000 passengers for Corridor 2."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_003",
+      "coordinates": {
+        "x1": 746.0,
+        "y1": 675.0,
+        "x2": 1734.0,
+        "y2": 1683.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9719090461730957,
+      "reading_order": 4,
+      "text": "The image is a geographical map illustrating a proposed infrastructure project, likely a railway corridor, connecting various locations in West Bengal, India. The map does not contain numerical axes but uses a spatial layout to show the relationship between locations. \n\n**Legend and Routes:**\n- **Corridor 1 (Yellow Line):** A winding route starting from the western edge near BHEL, passing through Tarna, Sangam Colony, and BHOJUBEER. It curves southeast, passing through NADESAR and Varanasi Junction, and terminates at the 'Project Site' located near Kashi Vidyapeeth.\n- **Corridor 2 (Blue Line):** A straight, north-south oriented route running vertically through the map. It passes through Sarnath, Haveli, Ashapur Chowk, Pachkoshi, Jhalalipura, and Machodri Park. It terminates at the 'Project Site' near Kashi Vidyapeeth.\n\n**Geographical Features and Labels:**\n- **Northern/Western Sector:** The map shows a coastal area with 'BHEL' (Bhubaneswar Electrics) on the far left. The corridor runs parallel to the coast, passing through Tarna and Sangam Colony.\n- **Central Sector:** The corridor passes through BHOJUBEER and NADESAR.\n- **Eastern Sector:** The corridor runs parallel to a river (likely the Ganges) on the east. It passes through Kashi Vidyapeeth and terminates at Kashi Vishwanath.\n- **Southern Sector:** The corridor runs through Tulsi Manas Mandir and ends at BHU (Banaras Hindu University).\n\nThe map highlights the connectivity of the 'Project Site' with major transport hubs like BHEL, Sarnath, and Kashi Vidyapeeth."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_004",
+      "coordinates": {
+        "x1": 750.0,
+        "y1": 1702.0,
+        "x2": 1118.0,
+        "y2": 1750.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.6682194471359253,
+      "reading_order": 5,
+      "text": "Note: Liable to change."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_005",
+      "coordinates": {
+        "x1": 755.0,
+        "y1": 1763.0,
+        "x2": 964.0,
+        "y2": 1807.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.6194745302200317,
+      "reading_order": 6,
+      "text": "Source: DPR"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_006",
+      "coordinates": {
+        "x1": 708.0,
+        "y1": 1843.0,
+        "x2": 1772.0,
+        "y2": 1896.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8506163358688354,
+      "reading_order": 7,
+      "text": "Figure 5.1.6 Metro Corridors and Station Locations"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_007",
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 1940.0,
+        "x2": 1207.0,
+        "y2": 1993.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8504629135131836,
+      "reading_order": 8,
+      "text": "(6) Kyoto-Varanasi Partner City Promotion"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_008",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 2041.0,
+        "x2": 2190.0,
+        "y2": 2301.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9180270433425903,
+      "reading_order": 9,
+      "text": "The Prime Minister of India Mr. Narendra Modi and the Prime Minister of Japan Mr. Abe announced an\nagreement to promote the Kyoto-Varanasi Partner City in 2014. This agreement included culture, art,\nacademics, heritage conservation and city modernization as potential areas of cooperation.\nThis Partnership is expected to facilitate as follows;"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_009",
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 2421.0,
+        "x2": 2133.0,
+        "y2": 2543.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9201482534408569,
+      "reading_order": 10,
+      "text": "• Modernisation of Varanasi, including upgrading water management and sewage facilities, waste\nmanagement, urban transportation etc., drawing upon Japan’s expertise and technologies;"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_010",
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 2558.0,
+        "x2": 2137.0,
+        "y2": 2676.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9195630550384521,
+      "reading_order": 11,
+      "text": "• Application of Japanese practices, techniques and management for conservation of the rich\nheritage of Varanasi; and"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_011",
+      "coordinates": {
+        "x1": 342.0,
+        "y1": 2693.0,
+        "x2": 2135.0,
+        "y2": 2812.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9142358899116516,
+      "reading_order": 12,
+      "text": "• Exchanges between Kyoto University and Banares Hindu University (hereinafter referred to as\n“BHU”), as well as religious organisations."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_012",
+      "coordinates": {
+        "x1": 311.0,
+        "y1": 2871.0,
+        "x2": 1600.0,
+        "y2": 2921.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.6461540460586548,
+      "reading_order": 13,
+      "text": "Source: December 3, 2014, the Press Information Bureau (PIB) of the GOI’s MOUD"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_013",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 2997.0,
+        "x2": 2195.0,
+        "y2": 3189.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.945389449596405,
+      "reading_order": 14,
+      "text": "In addition, the memorandum for academic cooperation and exchange and a student exchange\nagreement between Kyoto University and BHU were concluded in August 7, 2015. BHU is the first\nuniversity in India with which Kyoto University has concluded agreements for academic cooperation"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_5_block_014",
+      "coordinates": {
+        "x1": 1206.0,
+        "y1": 3284.0,
+        "x2": 1276.0,
+        "y2": 3329.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.767244279384613,
+      "reading_order": 15,
+      "text": "5-4"
+    }
+  ]
+}

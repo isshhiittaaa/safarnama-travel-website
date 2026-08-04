@@ -1,0 +1,216 @@
+{
+  "page_num": 2,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:22.963612+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8709795475006104,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_001",
+      "coordinates": {
+        "x1": 1989.0,
+        "y1": 176.0,
+        "x2": 2195.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8460490107536316,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_002",
+      "coordinates": {
+        "x1": 331.0,
+        "y1": 297.0,
+        "x2": 2146.0,
+        "y2": 405.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8993428945541382,
+      "reading_order": 3,
+      "text": "Table 3.1.1 Travel & Tourism’s Total Contribution to GDP (left) and Total Contribution to\nEmployment (right) in Asia Pacific (2015 % Share)"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_003",
+      "coordinates": {
+        "x1": 336.0,
+        "y1": 431.0,
+        "x2": 1210.0,
+        "y2": 1064.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.9601743221282959,
+      "reading_order": 4,
+      "text": "<table>\n<thead>\n<tr>\n<th>No.</th>\n<th>Country</th>\n<th>% share</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Cambodia</td>\n<td>29.9</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Thailand</td>\n<td>20.8</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Vietnam</td>\n<td>13.9</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Malaysia</td>\n<td>13.1</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Sri Lanka</td>\n<td>10.6</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Indonesia</td>\n<td>9.6</td>\n</tr>\n<tr>\n<td>7</td>\n<td>China</td>\n<td>7.9</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Pakistan</td>\n<td>7.0</td>\n</tr>\n</tbody>\n<tfoot>\n<tr>\n<td>9</td>\n<td>India</td>\n<td>6.3</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Bangladesh</td>\n<td>4.7</td>\n</tr>\n</tfoot>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_004",
+      "coordinates": {
+        "x1": 1261.0,
+        "y1": 431.0,
+        "x2": 2139.0,
+        "y2": 1063.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.9551134705543518,
+      "reading_order": 5,
+      "text": "<table>\n<thead>\n<tr>\n<th>No.</th>\n<th>Country</th>\n<th>% share</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Cambodia</td>\n<td>26.9</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Thailand</td>\n<td>15.4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Malaysia</td>\n<td>11.4</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Vietnam</td>\n<td>11.2</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Sri Lanka</td>\n<td>9.7</td>\n</tr>\n<tr>\n<td>6</td>\n<td>India</td>\n<td>8.7</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Indonesia</td>\n<td>8.7</td>\n</tr>\n<tr>\n<td>8</td>\n<td>China</td>\n<td>8.4</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Pakistan</td>\n<td>6.2</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Bangladesh</td>\n<td>4.1</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_005",
+      "coordinates": {
+        "x1": 346.0,
+        "y1": 1082.0,
+        "x2": 1776.0,
+        "y2": 1130.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.5705255270004272,
+      "reading_order": 6,
+      "text": "Source: Travel & Tourism Economic Impact 2016 in India – World Travel & Tourism Council"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_006",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1205.0,
+        "x2": 2195.0,
+        "y2": 1536.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9505113959312439,
+      "reading_order": 7,
+      "text": "The total number of FTA (Foreign Tourist Arrivals) as well as DTV (Domestic Tourist Visits) has\nincreased at the CAGR of 13.9% for the past 10 years. The number of tourists has increased from 466.89\nmillion in 2006 to 1,440.00 million in 2015. The CAGR of FTA is 7.6%, which is higher than the CAGR\nof DTV 13.9%. The number of FTA in 2015 (8.03 million) was only 0.56% of the total tourist visits in\nIndia."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_007",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1579.0,
+        "x2": 2195.0,
+        "y2": 1773.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9406575560569763,
+      "reading_order": 8,
+      "text": "While the growth rates of DTV have been stable, the growth rates of FTA have fluctuated being affected\nby the world economic trends; i.e., it recorded negative growth in 2002 and 2009 during the global\neconomic crisis."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_008",
+      "coordinates": {
+        "x1": 346.0,
+        "y1": 1846.0,
+        "x2": 1218.0,
+        "y2": 2488.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9296185374259949,
+      "reading_order": 9,
+      "text": "| Year | Blue Series (Diamond) [Million] | Grey Series (Triangle) [Million] |\n| :--- | :--- | :--- |\n| 2000 | ~2.75 | ~130 |\n| 2001 | ~2.60 | ~140 |\n| 2002 | ~2.40 | ~150 |\n| 2003 | ~2.80 | ~170 |\n| 2004 | ~3.50 | ~210 |\n| 2005 | ~4.00 | ~230 |\n| 2006 | ~4.50 | ~260 |\n| 2007 | ~5.10 | ~300 |\n| 2008 | ~5.30 | ~320 |\n| 2009 | ~5.20 | ~370 |\n| 2010 | ~5.80 | ~420 |\n| 2011 | ~6.30 | ~500 |\n| 2012 | ~6.60 | ~600 |\n| 2013 | ~7.00 | ~700 |\n| 2014 | ~7.70 | ~1,050 |\n| 2015 | null/off-chart (>1,400 estimated visually)| >1,400 |"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_009",
+      "coordinates": {
+        "x1": 1282.0,
+        "y1": 1849.0,
+        "x2": 2134.0,
+        "y2": 2460.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9322723150253296,
+      "reading_order": 10,
+      "text": "| Year | Foreign Tourist Arrivals YoY (%) | Domestic Tourist Visits YoY (%) |\n| :--- | :--- | :--- |\n| 2000 | ~6.5 | ~15.3 |\n| 2001 | -7.8 | ~7.4 |\n| 2002 | null (off chart) | ~14.0 |\n| 2003 | ~14.9 | ~14.5 |\n| 2004 | ~27.0 | ~18.5 |\n| 2005 | ~13.3 | ~7.0 |\n| 2006 | ~13.5 | ~18.2 |\n| 2007 | ~14.2 | ~14.0 |\n| 2008 | ~4.0 | ~6.5 |\n| 2009 | ~-2.AN | ~19.0 |\n| 2010 | ~11.5 | ~11.8 |\n| 2011 | ~9.2 | ~15.6 |\n| 2012 | ~4.2 | ~20.8 |\n| 2013 | ~5.8 | ~9.2 |\n| 2014 | ~10.0 | ~12.5 |\n| 2015 | ~4.5 | ~11.5 |"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_010",
+      "coordinates": {
+        "x1": 365.0,
+        "y1": 2560.0,
+        "x2": 1271.0,
+        "y2": 2606.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.7914461493492126,
+      "reading_order": 11,
+      "text": "Source: Annual Report 2015-16, Ministry of Tourism, GOI"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_011",
+      "coordinates": {
+        "x1": 350.0,
+        "y1": 2640.0,
+        "x2": 2121.0,
+        "y2": 2747.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8773494958877563,
+      "reading_order": 12,
+      "text": "Figure 3.1.2 Foreign Tourist Arrivals and Domestic Tourist Visits (left) and their Annual\nGrowth (right) from 2000 to 2015"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_012",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 2855.0,
+        "x2": 1011.0,
+        "y2": 2907.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8431252241134644,
+      "reading_order": 13,
+      "text": "3.1.2. Promotion of MICE in India"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_013",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 2960.0,
+        "x2": 895.0,
+        "y2": 3014.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8332958817481995,
+      "reading_order": 14,
+      "text": "(1) MICE Industry in India"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_014",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 3062.0,
+        "x2": 2196.0,
+        "y2": 3187.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.927397608757019,
+      "reading_order": 15,
+      "text": "The business tourism has gained importance in the international tourism market. Promoting MICE\n(Meetings, Incentives, Conferences and Exhibitions) would generate higher spending, reduce"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_2_block_015",
+      "coordinates": {
+        "x1": 1204.0,
+        "y1": 3284.0,
+        "x2": 1277.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7684265375137329,
+      "reading_order": 16,
+      "text": "3-2"
+    }
+  ]
+}

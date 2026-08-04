@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.env.*
+chroma_db/
+*.db
+logs/
+data/audio/
+data/reports_photos/
+data/pdf/*_output.zip

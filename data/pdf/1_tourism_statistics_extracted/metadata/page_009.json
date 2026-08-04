@@ -1,0 +1,216 @@
+{
+  "page_num": 9,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:23.668197+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 177.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8634992241859436,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_001",
+      "coordinates": {
+        "x1": 1988.0,
+        "y1": 177.0,
+        "x2": 2196.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8440735340118408,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_002",
+      "coordinates": {
+        "x1": 303.0,
+        "y1": 298.0,
+        "x2": 954.0,
+        "y2": 946.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9319589138031006,
+      "reading_order": 3,
+      "text": "| Country | Percentage |\n| :--- | :--- |\n| Others | 35% |\n| USA | 12% |\n| Sn Lanka | 9% |\n| China | 7% |\n| South Korea | 7% |\n| Japan | 6% |\n| UK | 6% |\n| Spain | 5% |\n| France | 4% |\n| Australia | 4% |\n| Italy | 4% |"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_003",
+      "coordinates": {
+        "x1": 971.0,
+        "y1": 306.0,
+        "x2": 2169.0,
+        "y2": 972.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9530577063560486,
+      "reading_order": 4,
+      "text": "| Month | Indian (left) | Foreigner (right) |\n| :--- | :--- | :--- |\n| Jan | ~290,000 | ~840,000 |\n| Feb | ~435,000 | ~985,000 |\n| Mar | ~315,000 | ~1,060,000 |\n| Apr | ~315,000 | ~525,000 |\n| May | ~270,000 | ~290,000 |\n| Jun | ~220,000 | ~140,000 |\n| Jul | ~240,000 | ~280,000 |\n| Aug | ~270,000 | ~550,000 |\n| Sep | ~630,000 | ~430,000 |\n| Oct | ~860,000 | ~730,000 |\n| Nov | ~1,120,000 | ~660,000 |\n| Dec | ~460,000 | ~730,000 |"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_004",
+      "coordinates": {
+        "x1": 298.0,
+        "y1": 993.0,
+        "x2": 1014.0,
+        "y2": 1040.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8522703647613525,
+      "reading_order": 5,
+      "text": "Source: Department of Tourism, Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_005",
+      "coordinates": {
+        "x1": 318.0,
+        "y1": 1073.0,
+        "x2": 2161.0,
+        "y2": 1182.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.9056627750396729,
+      "reading_order": 6,
+      "text": "Figure 3.3.2 The Share of Nationality in FTA (left) and the Monthly Trend of DTV and FTA\n(right) in 2015"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_006",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1254.0,
+        "x2": 973.0,
+        "y2": 1309.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8597801327705383,
+      "reading_order": 7,
+      "text": "3.3.2. MICE Policy in City Level"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_007",
+      "coordinates": {
+        "x1": 281.0,
+        "y1": 1357.0,
+        "x2": 2198.0,
+        "y2": 1759.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9575530290603638,
+      "reading_order": 8,
+      "text": "In the City Development Plan (CDP) for Varanasi 2041 that was drafted under the Capacity Building for\nUrban Development project (CBUD), the establishment of a convention centre has been proposed. The\nCBUD project was a joint partnership program between MOUD and the World Bank. In the report,\nunder the ‘Local Economic Development Sector Strategy’, the need for a Convention centre was\nmentioned, which included provision for development of indoor exhibition areas, conference halls and\naccommodation units with services, at an estimated cost of INR 250 million."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_008",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 1837.0,
+        "x2": 903.0,
+        "y2": 1892.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8427796363830566,
+      "reading_order": 9,
+      "text": "3.3.3. Varanasi City of Music"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_009",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1940.0,
+        "x2": 2196.0,
+        "y2": 2133.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9441218972206116,
+      "reading_order": 10,
+      "text": "The Department of Tourism, Uttar Pradesh has organized and promoted cultural events to boost tourism\nin Varanasi. The following list shows the major cultural events, including classical music and\nperformances to be held in Varanasi in 2017."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_010",
+      "coordinates": {
+        "x1": 760.0,
+        "y1": 2170.0,
+        "x2": 1717.0,
+        "y2": 2224.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.851686418056488,
+      "reading_order": 11,
+      "text": "Table 3.3.2 Cultural Events in Varanasi (2017)"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_011",
+      "coordinates": {
+        "x1": 329.0,
+        "y1": 2251.0,
+        "x2": 2148.0,
+        "y2": 2575.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.9632494449615479,
+      "reading_order": 12,
+      "text": "<table>\n<thead>\n<tr>\n<th>Cultural Event</th>\n<th>Date</th>\n<th>Cultural Event</th>\n<th>Date</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ganga Mohotsav</td>\n<td>31 Oct - 03 Nov</td>\n<td>Ramleela Ramnagar</td>\n<td>5 Sep – 5 Oct</td>\n</tr>\n<tr>\n<td>‘Sur Ganga’ Music Festival</td>\n<td>18 Apr - 30 May</td>\n<td>Sankat Mochan Music Festival</td>\n<td>15 – 20 Apr</td>\n</tr>\n<tr>\n<td>Dhrupad Mela</td>\n<td>21 – 24 Feb</td>\n<td>Naag Nathaiya</td>\n<td>23 Oct</td>\n</tr>\n<tr>\n<td>Buddha Poornima</td>\n<td>10 May</td>\n<td>Ganga Dushehra</td>\n<td>3 June</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_012",
+      "coordinates": {
+        "x1": 335.0,
+        "y1": 2591.0,
+        "x2": 1051.0,
+        "y2": 2639.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.7860930562019348,
+      "reading_order": 13,
+      "text": "Source: Department of Tourism, Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_013",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2713.0,
+        "x2": 2203.0,
+        "y2": 3047.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9585786461830139,
+      "reading_order": 14,
+      "text": "The protection and promotion of Varanasi’s music has been supported for centuries, and the number of\nactive music companies in music sector has significantly increased to 3001. Such activities have led to\nan award of UNESCO’s ‘Cities of Music’ category under the Creative Cities Network in December 2015.\nTo celebrate Varanasi’s ‘City of Music’ heritage, a carnival of music, ‘Sur Ganga’ will be held in\nVaranasi from April 18 to May 30 in 2017. The objectives of the event are to promote Indian music"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_014",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 3164.0,
+        "x2": 1008.0,
+        "y2": 3218.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.8780008554458618,
+      "reading_order": 15,
+      "text": "¹ http://en.unesco.org/creative-cities/varanasi"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_9_block_015",
+      "coordinates": {
+        "x1": 1204.0,
+        "y1": 3282.0,
+        "x2": 1277.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7537471652030945,
+      "reading_order": 16,
+      "text": "3-9"
+    }
+  ]
+}

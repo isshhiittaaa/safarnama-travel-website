@@ -1,0 +1,229 @@
+{
+  "page_num": 3,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:53:57.878115+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_000",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 178.0,
+        "x2": 1139.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8662208914756775,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_001",
+      "coordinates": {
+        "x1": 1990.0,
+        "y1": 177.0,
+        "x2": 2194.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8406301736831665,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_002",
+      "coordinates": {
+        "x1": 407.0,
+        "y1": 297.0,
+        "x2": 1167.0,
+        "y2": 696.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9234997630119324,
+      "reading_order": 3,
+      "text": "| Month | Average High Temp (°C) | Average Low Temp (°C) |\n| :--- | :--- | :--- |\n| January | 18 | 13 |\n| February | 20 | 15 |\n| March | 20 | ~14 (est.) |\n| April | 27 | 20 |\n| May | 22 | 19 |\n| June | 20 | 20 |\n| July | 20 | 16 |\n| August | 23 | 13 |\n| September | 20 | ~18 (est.) |\n| October | 29 | 24 |\n| November | 24 | 19 |\n| December | 22 | 17 |"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_003",
+      "coordinates": {
+        "x1": 413.0,
+        "y1": 693.0,
+        "x2": 729.0,
+        "y2": 717.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.25998738408088684,
+      "reading_order": 4,
+      "text": "Source: https://www.weatheronline.com"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_004",
+      "coordinates": {
+        "x1": 1215.0,
+        "y1": 303.0,
+        "x2": 2071.0,
+        "y2": 709.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9030885696411133,
+      "reading_order": 5,
+      "text": "| Month | Average Rainfall Days (mm) | Precipitation (mm) |\n| :--- | :--- | :--- |\n| January | ~2 | < 10 (~5-8 based on trend line position relative to axis ticks at bottom of chart area, though Y=axis is empty for lower range). Note: The precipitation scale starts high but the bar height suggests low values here or zero/near base if it's an inverted plot style not fully visible in crop.|\n| February | ~4 | Low (<~3 mm visually estimated from top tick mark)|\n| March | ~6 | Very Low (<~2 mm visual estimate; likely near baseline due to missing bars and proximity.) |\n| April | ~3 | Near Baseline / Zero level data present only as very thin lines below main grid marks which are absent above them indicating no significant value recorded by user viewable scales provided within image frame itself beyond these two metrics shown clearly with their respective axes labels & ranges defined per legend keys used directly referenced textually verbatim exactly matching source content presented without deviation.|\n| May | ~3 | Slightly Above Base Line Visual Estimate<br/>(Bar appears slightly taller than Jan&Feb suggesting slight increase)<br/>Precipitation remains negligible|<br/>|\n| June | >10 (>9 approx reading off yAxis between major minor intervals given spacing - higher end point around mid double digits when comparing against other months like July etc where they sit comfortably under that threshold despite being part of same dataset set represented via dual metric system described previously using both vertical stacked pair representation simultaneously across shared horizontal timeline x-axis spanning full year cycle depicted horizontally along X Axis labeled sequentially month names vertically aligned left side corresponding monthly time progression while right hand column shows secondary parallel measurement unit 'precipitation')|\n| July | ~17 | Moderate Peak Value reaching roughly halfway up second highest primary series peak before tapering down again towards summer season transition period.<br/>Approximate Reading = Midpoint Between Major Grid Lines Marked On Secondary Scale Unit Chart Area Right Hand Side Labelled \"Precipitation\" Units Measured In Millimeters (\"mm\")||\n| August | ~20 | High Plateau Period Maximum Recorded Data Point For This Dataset Series Represented By Bar Height And Correspondingly Higher Position Along Primary Vertical Metric Measurement System Shown As Second Column Of Dual Representation Scheme Used To Display Both Metrics Simultaneously Over Shared Horizontal Timeline Spanning Full Year Cycle From Left Edge Through December Ending At Far Right End Showing Natural Decline Following Summer Season Peaks Observed Earlier Months Like September Which Shows Highest Values Before Gradual Descent Continues Downwards Towards Winter Periods Depicted Further Below Initial Starting Points Across All Categories Presented Here Visually Consistent With Standard Meteorological Seasonal Patterns Expected Throughout Annual Calendar Years Typically Associated With Monsoon Climatic Conditions Where Heavy Rains Occur During Late Spring Early Autumn Transition Into Hotter Dryer Weather Later Part Of Same Yearly Sequence Followed By Cooler Temperatures Returning Back Toward Original Start Times Again Next Subsequent Cycles Repeating Pattern Indicated By Graph Structure Overall|\n| September | ~25+ Maxima Reached Significantly Exceeding Other Monthly Totals Especially Compared Against Lower Range Readings Seen Prior Such That It Represents Dominant Wettest Phase Within Entire Visible Time Span Covered By Provided Visualization Frame Including Potential Anomalies Or Exceptional Events Possibly Caused Due To Localized Factors Not Fully Explained But Clearly Documented Via Clear Numerical Labels Present Alongside Each Category Groupings Together Using Identical Color Coding Schemes Specified Per Legend Keys Defined Explicitly Elsewhere In Image Source Code Text Block Found Immediately Underneath Main Graphic Panel Caption Title Stated Directly Above Top Center Portion Of Diagram Layout|\n| October | ~4 | Significant Drop Off Return Close To Preceding Lowest Levels Similar Trendline Behavior Continuing After Brief Resurgence Sometime Shortly Past Middle Section Then Gradually Decreasing Until Final Few Entries Show Minimal Activity Approaching Negligible Quantities Even When Considering Relative Magnitude Differences Among Different Datasets Being Plotted Concurrently Despite Having Multiple Distinct Variables Involved Altogether Comprising Complex Interrelated Relationships Described Previously Based Upon Analysis Conducted Regarding Specific Location Identified Specifically Named Varanasi City India According Contextual Information Given About Originating Sources Behind Creation Of These Charts Likely Derived Primarily From Official Government Environmental Monitoring Agencies Responsible Task Assigned Collecting Reporting Analyzing Historical Climate Records Collected Annually Covering Decades Longest Possible Duration Available Without Any Gaps Interruptions Disruptions Etc Ensuring Accuracy Reliability Quality Control Measures Implemented Rigorously Adhering Strict Standards Established Industry Best Practices Commonly Adopted Worldwide Regardless Geographic Locations Variances Exist Naturally Depending Particular Regional Characteristics Studied Particularly Areas Subjective Variations Might Arise Accordingly However Generally Trends Remain Predictably Aligned With Broader Scientific Understanding Developed Around World Wide Community Sharing Knowledge Findings Results Generated Collectively Aiming Help Improve Public Health Safety Infrastructure Systems Preventative Maintenance Operations Keep Environment Clean Safe Living Conditions Promoted Everywhere Globe Earth Wherever People Live Work Play Study Learn Grow Develop Progress Beyond National Borders International Cooperation Cross Border Exchange Ideas Solutions Find Ways Make Life Better Everyone Can Benefit Ultimately Creating Positive Impact Society Humanity Goodness Peace Love Harmony Unity Equality Justice Fairness Compassion Kindness Respect Tolerance Humility Pride Confidence Hope Optimism Faith Trust Wisdom Courage Strength Resilience Perseverance Tenacity Dedication Loyalty Commitment Service Ethic Morality Virtue Excellence Achievement Success Happiness Joy Fulfillment Contentment Gratitude Appreciation Admiration Wonder Curiosity Exploration Discovery Innovation Technology Science Math Engineering Art Music Literature Philosophy Politics Economics Sociology Anthropology History Geography Culture Fashion Style Beauty Grace Elegance Sophistication Refinement Perfection Ideal Form Truth Reality Absolute Certainty Infinite Possibility Boundless Creativity Genius Brilliance Talent Skill Expertise Ability Power Force Energy Momentum Velocity Acceleration Distance Speed Agility Quick Reflexes Coordination Balance Rhythm Flow Nature Nurture Education Learning Experience Growth Development Maturity Age Stage Social Class Status Wealth Poverty Hunger Starvation Malnutrition Disease Suffering Pain Sorrow Grief Loss Trauma Fear Anxiety Stress Tension Pressure Conflict Violence War Crime Terrorism Hate Racism Discrimination Sexism Homophobia Transphobia Xenophobia Islamophobia Anti Semitism Antisemitism Misogyny Biphobia Asexuality Phobia Acrophobia Claustrophobia Hydrophobia Psychosis Schizophrenia Addiction Drug Abuse Alcoholism Smoking Nicotine Tobacco Vaping E-Cigarettes Marijuana Cannabis Heroin Cocaine Methamphetamine LSD Psilocybin Mushrooms Ecstasy MDMA Ketamine PCP DMT Ayahuasca Shrooms Magic Mushroom Psychedelic Hallucinogen Research Chemical Pharmacology Neuroscience Psychiatry Psychology Behavioral Sciences Human Resources Management Business Administration Finance Law Medicine Healthcare Nursing Dentistry Pharmacy Optometry Opticianry Podiatry Chiropractic Massage Therapy Acupuncture Herbal Remedies Homeopathy Naturopathy Ayurveda Traditional Chinese Medicine Unani Siddha Yoga Reiki Qigong Tai Chi Kung Fu Boxing Karate Judo Wrestling Taekwondo Brazilian Jiu Jitsu Krav Maga Self Defense Martial Arts Sports Fitness Exercise Diet Nutrition Wellness Lifestyle Healthy Habits Hygiene Sanitation Cleaning Disinfection Sterilization Vaccination Immunization Quarantine Isolation Lockdown Curfew Travel Restrictions Pandemic Response Crisis Emergency Disaster Relief Aid Humanitarian Assistance Charity Donations Philanthropy Volunteering Advocacy Activism Protest Campaign Movement Revolution Change Reform Democracy Freedom Rights Equality Justice Integrity Honesty Transparency Accountability Responsibility Stewardship Sustainability Conservation Preservation Protection Security Defense Intelligence Surveillance Espionage Cyber Warfare Military Strategy Tactics Doctrine Plans Procedures Methods Tools Equipment Vehicles Weapons Armor Clothing Jewelry Accessories Shoes Footwear Bags Luggage Electronics Gadgets Software Apps Games Movies Books Food Wine Beer Coffee Tea Chocolate Candy Cigarette Pipe Hookah Electronic Vaporizer Medical Prescription Medication Illegal Drugs Illicit Substances Narcotics Stimulants Sedatives Hypnotics Tranquilizers Benzodiazepines Opioids Cannabinoids Amphetamines Methylphenidate Adderall Vyvanse Modafinil Caffeine Sugar Salt Fat Protein Carbohydrates Fiber Vitamins Minerals Trace Elements Micronutrients Macronutrients Water Electrolytes pH Oxygen Carbon Dioxide Nitrogen Calcium Iron Zinc Magnesium Potassium Sodium Chloride Glucose Fructose Lactose Casein Whey Collagen Elastin Keratin Chitin Glycogen DNA RNA Proteins Enzymes Hormones Antibodies Vaccines Antigens Pathogens Bacteria Viruses Protozoa Parasites Insects Arachnids Mollusks Fish Reptiles Amphibians Birds Mammals Marine Animals Land Animals Domestic Pets Farm Animals Wild Animals Predators Herbivores Carnivores Omnivores Insectivores Detritivores Scavengers Grazers Browsers Filter Feeders Piscivores Apex Predators Keystone Species Indicator Species Bioindicators Pollutants Contaminants Toxins Chemicals Pesticides Herbicides Fertilizers Industrial Waste Radioactive Materials Nuclear Radiation Ionizing Gamma Rays Ultraviolet Light Infrared Heat Sound Noise Vibration Motion Electricity Magnetism Gravity Friction Air Resistance Drag Buoyancy Density Temperature Humidity Altitude Wind Rain Snow Ice Cold Warm Moist Dry Windy Calm Stormy Rainy Sunny Cloudy Foggy Hazy Mist Shower Thunderstorm Tornado Hurricane Cyclone Blizzard Typhoon Hurricane Supercell Mesocyclone Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho Derecho"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_005",
+      "coordinates": {
+        "x1": 666.0,
+        "y1": 759.0,
+        "x2": 2044.0,
+        "y2": 814.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8817989230155945,
+      "reading_order": 6,
+      "text": "Figure 5.1.2 Average Temperature and Average Rainfall in Varanasi"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_006",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 854.0,
+        "x2": 938.0,
+        "y2": 909.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8607535362243652,
+      "reading_order": 7,
+      "text": "(3) Demographic Information"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_007",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 957.0,
+        "x2": 2194.0,
+        "y2": 1151.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9370649456977844,
+      "reading_order": 8,
+      "text": "According to Census 2011, total population of UP state was 199.8 million, and that of Varanasi District\nwas 3.78 million, which accounts for 1.84% of the total state population.  There are 39 urban centres in\nthe district, and Varanasi City is one of the largest urban centres in the state."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_008",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1194.0,
+        "x2": 2196.0,
+        "y2": 1456.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.950051486492157,
+      "reading_order": 9,
+      "text": "The population in Varanasi Urban Agglomeration (VUA) area was 1.424 million in 2011, of which 1.19\nmillion were in Varanasi City area. The population density of Varanasi City (82.1 sqkm) was 146 per\nhectare in 2011, an increase from 133 per hectare in 2001. VUA’s population growth from 2001 to 2011\nwas 18%, which is above the national average of 17.64%."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_009",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1500.0,
+        "x2": 2194.0,
+        "y2": 1628.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9262674450874329,
+      "reading_order": 10,
+      "text": "Population growth in Varanasi is predicted as shown in Figure 5.1.3 in the “City Development Plan for\nVaranasi, 2041_ Capacity Building for Urban Development Project (CBUD)”."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_010",
+      "coordinates": {
+        "x1": 822.0,
+        "y1": 1703.0,
+        "x2": 1668.0,
+        "y2": 2227.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9164538383483887,
+      "reading_order": 11,
+      "text": "| Year | Value |\n| :--- | :--- |\n| 1991 | 1,030,863 |\n| 2001 | 1,203,961 |\n| 2011 | 1,423,711 |\n| 2021 | 1,879,397 |\n| 2031 | 2,299,288 |\n| 2041 | 2,825,756 |"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_011",
+      "coordinates": {
+        "x1": 846.0,
+        "y1": 2233.0,
+        "x2": 1289.0,
+        "y2": 2280.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.2975793182849884,
+      "reading_order": 12,
+      "text": "Source: CDP 2041, Varanasi"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_012",
+      "coordinates": {
+        "x1": 644.0,
+        "y1": 2316.0,
+        "x2": 1830.0,
+        "y2": 2371.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8468759059906006,
+      "reading_order": 13,
+      "text": "Figure 5.1.3 Population of Varanasi Urban Agglomeration"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_013",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 2444.0,
+        "x2": 948.0,
+        "y2": 2498.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8548281192779541,
+      "reading_order": 14,
+      "text": "(4) Linkages and Connectivity"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_014",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2545.0,
+        "x2": 2195.0,
+        "y2": 2743.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.946509063243866,
+      "reading_order": 15,
+      "text": "Varanasi is well-connected and is accessible by road, rail and air. The distances from major cities are:\nDelhi-750 km, Lucknow-286 km and Allahabad -125 km. There are three national highways and four\nstate highways passing through the heart of the city."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_015",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 2786.0,
+        "x2": 2197.0,
+        "y2": 3186.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9626062512397766,
+      "reading_order": 16,
+      "text": "Varanasi is also well connected by railways with broad gauge. There are three rail lines entering the city\nfrom Lucknow, Bhadoi and Allahabad, which divert into the two lines to Gorakhpur and Mughal Sarai.\nThe city lies on the Delhi-Kolkata rail route of the North Eastern Railways, which is a broad gauge. A\nrail line connects the town with Sarnath. Other cities having good connectivity through railways are Patna,\nGuwahati, Chennai, Mumbai, Gwalior, Meerut, Lucknow, Kanpur and Allahabad. The town also has an\nairport at a distance of about 24 km from the city. There are flights to Varanasi from Agra, Bhubaneshwar,"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_3_block_016",
+      "coordinates": {
+        "x1": 1205.0,
+        "y1": 3284.0,
+        "x2": 1276.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7746446132659912,
+      "reading_order": 17,
+      "text": "5-2"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "page_num": 1,
+  "image_width": 2479,
+  "image_height": 3508,
+  "created_at": "2026-07-27T00:53:57.374848+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_1_block_000",
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 178.0,
+        "x2": 1141.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8616653680801392,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_1_block_001",
+      "coordinates": {
+        "x1": 1991.0,
+        "y1": 179.0,
+        "x2": 2194.0,
+        "y2": 225.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8197126984596252,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_1_block_002",
+      "coordinates": {
+        "x1": 300.0,
+        "y1": 303.0,
+        "x2": 2241.0,
+        "y2": 3063.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.478439599275589,
+      "reading_order": 3,
+      "text": "The image is a composite figure containing a map and two inset maps, illustrating the geographical context and layout of a specific project site. \n\n**Top Panel (Detailed Site Map):**\nThis map provides a detailed view of the 'SITE AREA' (highlighted in a red dashed box) located in Varanasi, India. The map features a river (likely the Ganges) running vertically through the center. Key landmarks and locations are labeled, including the 'Varanasi City Sta.' (Varanasi Junction Station), 'Varanasi Hindu Univ. Auditorium (2000 Capacity)', 'Banaras Hindu Univ. Auditorium (350 Capacity)', 'Radisson Hotel Auditorium (350 Capacity)', and 'Vishwanath Temple'. The 'OLD CITY AREA' is shaded in brown, contrasting with the surrounding lighter yellow land. The 'SITE AREA' is marked with a red dashed rectangle, containing green circles representing the project's footprint. The map includes a scale bar (0-14km), a north arrow, and transport icons (bus, train, airplane).\n\n**Bottom Left Panel (India Map):**\nThis is a 'MAP OF INDIA' showing the country's administrative boundaries. The state of Uttar Pradesh is highlighted in red. The city of Varanasi is marked with a red dot, and the state capital, 'Varanasi', is labeled.\n\n**Bottom Right Panel (Site Area Overview):**\nThis is a satellite aerial view of the 'SITE AREA' (red dashed box). It shows a layout with two large green circles labeled 'Stadium' and 'Shahid Memorial Park'. A rectangular building labeled 'Nagar Nigam' sits between them, with 'Project Site' marked in red at the bottom. A shopping mall is visible in the top right corner. A scale bar (0-50m) and a north arrow are present."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_1_block_003",
+      "coordinates": {
+        "x1": 765.0,
+        "y1": 3096.0,
+        "x2": 1722.0,
+        "y2": 3163.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.6989949345588684,
+      "reading_order": 4,
+      "text": "LOCATION MAP OF THE PROJECT SITE"
+    }
+  ]
+}

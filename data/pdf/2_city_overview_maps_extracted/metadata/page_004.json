@@ -1,0 +1,151 @@
+{
+  "page_num": 4,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:53:57.944961+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1141.0,
+        "y2": 225.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8706523180007935,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_001",
+      "coordinates": {
+        "x1": 1989.0,
+        "y1": 177.0,
+        "x2": 2195.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8462191820144653,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_002",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 306.0,
+        "x2": 2195.0,
+        "y2": 431.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9276461601257324,
+      "reading_order": 3,
+      "text": "Kolkata, Delhi, Gorakhpur, Khajuraho, Lucknow, Raipur and Kathmandu (Nepal). It is on a regular\naviation route from Delhi to Kolkata and Bhubaneshwar. It is also the aviation gateway to Nepal."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_003",
+      "coordinates": {
+        "x1": 331.0,
+        "y1": 478.0,
+        "x2": 2161.0,
+        "y2": 1527.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9399195313453674,
+      "reading_order": 4,
+      "text": "The image presents two side-by-side maps of the Indian state of Uttar Pradesh, illustrating various travel routes and connections. \n\nThe left map focuses on the central region. It highlights several major destinations with red arrows: To Jaunpur, To Azamgarh, To Ghazipur, To Badohi, To Allahabad, To Mirzapur, and To Lahore. The map shows the Ganges River flowing through the center, with cities like Varanasi, Allahabad, and Mirzapur visible.\n\nThe right map provides a more detailed view of the northern and eastern parts of the state. It features a dense network of roads, particularly the Lucknow-Delhi corridor. Key destinations marked on this map include To Lucknow, To Azamgarh, To Ghazipur, To Bhadoi, To Allahabad/kaushambi, To Allahabad/kaushambi (a duplicate label), and To Dulhipur. The Ganges River is also prominent on the right side.\n\nBoth maps use a standard cartographic style with color-coded roads (yellow for major highways, green for secondary roads) and red arrows indicating the direction of travel. Text labels identify specific locations and routes."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_004",
+      "coordinates": {
+        "x1": 826.0,
+        "y1": 1581.0,
+        "x2": 1648.0,
+        "y2": 1639.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8747014403343201,
+      "reading_order": 5,
+      "text": "Figure 5.1.4 Linkages and Connectivity"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_005",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 1675.0,
+        "x2": 1013.0,
+        "y2": 1730.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8504438400268555,
+      "reading_order": 6,
+      "text": "(5) Master Plan of Varanasi -2031"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_006",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1777.0,
+        "x2": 2196.0,
+        "y2": 2043.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9448123574256897,
+      "reading_order": 7,
+      "text": "The Varanasi Master plan 2031 was developed in 2013 by Varanasi Development Authority (hereinafter\nreferred to as “VDA”), but it is still under the approval process. This master plan defines the new boundary\nof Varanasi Development Region (VDR), new road network and land use, including new ring roads and\ncommercial areas. The land use of the project site for VCC is for office use (refer to Chapter 5.3.2)"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_007",
+      "coordinates": {
+        "x1": 723.0,
+        "y1": 2082.0,
+        "x2": 1754.0,
+        "y2": 3063.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9700627326965332,
+      "reading_order": 8,
+      "text": "The image displays a detailed urban planning map titled \"वाराणसी महायोजना - 2031\" (Varanasi Master Plan - 2031). The map illustrates the city of Varanasi, India, with a focus on land use zoning. The visual data is categorized into various color-coded zones, each representing different types of land use as defined by a legend on the right side of the map. \n\nThe dominant color in the central and southern parts of the map is yellow, indicating \"Residential\" areas (likely housing colonies). Surrounding this are distinct zones:\n- **Green:** Represents \"Forests\" and \"Parks.\"\n- **Red/Brown:** Represents \"Industrial\" zones.\n- **Purple/Blue:** Represents \"Commercial\" or \"Mixed-use\" areas.\n- **Pink/Light Red:** Represents \"Agricultural\" or \"Open Land.\"\n- **White:** Represents \"Water Bodies\" (rivers and lakes).\n- **Green (outlined):** Represents \"Green Belt\" or \"Buffer Zones.\"\n\nMajor infrastructure is visible, including a prominent railway line running horizontally across the upper-left quadrant and a major road (likely the Ganges River) flowing along the eastern edge. The map also includes a scale bar in the bottom left and a footer containing administrative details in Hindi."
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_008",
+      "coordinates": {
+        "x1": 724.0,
+        "y1": 3080.0,
+        "x2": 1266.0,
+        "y2": 3126.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.7613658905029297,
+      "reading_order": 9,
+      "text": "Source: Master Plan Varanasi 2031"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_009",
+      "coordinates": {
+        "x1": 814.0,
+        "y1": 3161.0,
+        "x2": 1659.0,
+        "y2": 3216.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8478912711143494,
+      "reading_order": 10,
+      "text": "Figure 5.1.5 Master Plan –Varanasi 2031"
+    },
+    {
+      "block_id": "20260727_f56ed5e7-27ec-4bd9-95f1-bfdc822ed1e4_4_block_010",
+      "coordinates": {
+        "x1": 1205.0,
+        "y1": 3285.0,
+        "x2": 1276.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7872273325920105,
+      "reading_order": 11,
+      "text": "5-3"
+    }
+  ]
+}

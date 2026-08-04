@@ -1,0 +1,112 @@
+{
+  "page_num": 10,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:23.537465+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 177.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8729848861694336,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_001",
+      "coordinates": {
+        "x1": 1990.0,
+        "y1": 177.0,
+        "x2": 2194.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8554718494415283,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_002",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 308.0,
+        "x2": 2194.0,
+        "y2": 432.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.932067334651947,
+      "reading_order": 3,
+      "text": "among the youth in addition to promotion of tourism in the region, to promote mutual understanding\namong musicians and to share knowledge and experiences for music students."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_003",
+      "coordinates": {
+        "x1": 352.0,
+        "y1": 512.0,
+        "x2": 1222.0,
+        "y2": 1144.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9674040079116821,
+      "reading_order": 4,
+      "text": "The image is a painting depicting a group of people gathered in a room, likely for a religious or spiritual ceremony. In the center, a person is seated on a raised platform or chair, dressed in white robes, and appears to be leading the gathering with a raised hand. Several other individuals are standing around the room, some facing the central figure and others looking towards the back. The room has white walls adorned with framed pictures and religious icons. Large windows with dark frames are visible on the left and right sides. The painting has a somewhat blurry, impressionistic texture."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_004",
+      "coordinates": {
+        "x1": 325.0,
+        "y1": 1188.0,
+        "x2": 1013.0,
+        "y2": 1233.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.8259056210517883,
+      "reading_order": 5,
+      "text": "Source: UNESCO Creative Cities – Varanasi"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_005",
+      "coordinates": {
+        "x1": 1271.0,
+        "y1": 510.0,
+        "x2": 2115.0,
+        "y2": 1151.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9759269952774048,
+      "reading_order": 6,
+      "text": "The provided image is a photograph and does not contain any chart, graph, or data visualization. It depicts a crowded outdoor gathering, likely a sports event or concert, viewed from an elevated perspective. In the background, a large stage structure is illuminated by a strong backlight, likely the sun, creating a hazy, golden atmosphere. The foreground is filled with the backs of numerous spectators, many of whom are wearing white head coverings. There are no axes, legends, numerical values, or data points to analyze."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_006",
+      "coordinates": {
+        "x1": 671.0,
+        "y1": 1268.0,
+        "x2": 1808.0,
+        "y2": 1323.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8854979276657104,
+      "reading_order": 7,
+      "text": "Figure 3.3.3 Music School and Music Event in Varanasi"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_10_block_007",
+      "coordinates": {
+        "x1": 1194.0,
+        "y1": 3282.0,
+        "x2": 1289.0,
+        "y2": 3330.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7271453738212585,
+      "reading_order": 8,
+      "text": "3-10"
+    }
+  ]
+}

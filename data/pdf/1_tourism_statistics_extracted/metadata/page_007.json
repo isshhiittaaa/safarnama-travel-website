@@ -1,0 +1,151 @@
+{
+  "page_num": 7,
+  "image_width": 2481,
+  "image_height": 3508,
+  "created_at": "2026-07-26T16:24:23.678347+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_000",
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 180.0,
+        "x2": 1138.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8667210340499878,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_001",
+      "coordinates": {
+        "x1": 1991.0,
+        "y1": 180.0,
+        "x2": 2193.0,
+        "y2": 223.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.834739089012146,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_002",
+      "coordinates": {
+        "x1": 622.0,
+        "y1": 294.0,
+        "x2": 1853.0,
+        "y2": 1493.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9792082905769348,
+      "reading_order": 3,
+      "text": "The image is a geographical map titled \"UTTAR PRADESH DISTRICTS,\" displaying the administrative divisions of the Indian state of Uttar Pradesh. The map is oriented with North at the top, indicated by a North arrow. It features a color-coded scheme where different districts are shaded in various pastel colors (e.g., pink, yellow, green, purple) to distinguish them. \n\nThe map highlights four specific locations with red circles and red text labels: Noida, Agra, Lucknow, and Varanasi. These locations are marked as state capitals. A legend in the bottom right corner defines the symbols: a red circle represents the \"State Capital\" and a black dot represents the \"District Headquarter.\"\n\nGeographically, the map shows the state's borders with neighboring states and countries. To the northwest is Haryana and Uttar Pradesh, with the border with Pakistan visible. To the north is Nepal. To the east lies Bangladesh, and to the south are the states of Bihar, Jharkhand, and West Bengal. The map also includes a small inset map in the top right corner showing the location of Uttar Pradesh within India. A footer note states \"Map not to Scale\" and provides copyright information."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_003",
+      "coordinates": {
+        "x1": 632.0,
+        "y1": 1516.0,
+        "x2": 827.0,
+        "y2": 1555.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.756764829158783,
+      "reading_order": 4,
+      "text": "Source: JST"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_004",
+      "coordinates": {
+        "x1": 697.0,
+        "y1": 1593.0,
+        "x2": 1779.0,
+        "y2": 1647.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8913524746894836,
+      "reading_order": 5,
+      "text": "Figure 3.2.3 Locations of Cities for MICE Promotion"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_005",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1758.0,
+        "x2": 1483.0,
+        "y2": 1812.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8624722957611084,
+      "reading_order": 6,
+      "text": "3.3. Tourism Policy and MICE Promotion in Varanasi City"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_006",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 1860.0,
+        "x2": 1211.0,
+        "y2": 1914.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8440563082695007,
+      "reading_order": 7,
+      "text": "3.3.1. Tourism Development in Varanasi City"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_007",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 1961.0,
+        "x2": 2195.0,
+        "y2": 2223.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9566855430603027,
+      "reading_order": 8,
+      "text": "Varanasi is a city on the banks of the Ganges in Uttar Pradesh, the sacred city in Hinduism and Jainism,\nand it also plays an important role in the development of Buddhism. Sarnath, 10km from Varanasi, is one\nof the most revered Buddhist pilgrimage centres. Since visitors of Sarnath visit Varanasi for\naccommodation, the number of tourists in Varanasi and Sarnath can be combined."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_008",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 2267.0,
+        "x2": 2196.0,
+        "y2": 2530.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9601527452468872,
+      "reading_order": 9,
+      "text": "Varanasi/ Sarnath ranks eighth in DTV (Domestic Tourist Visit) and third in FTA (Foreign Tourist\nArrival) in UP state in 2015. Although the destinations of DTV have been diverse across various cities in\nUP state, 65% of FTA has been concentrated in the top three cities: Agra, Sarnath and Varanasi (the share\nof Sarnath and Varanasi is 22%)."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_009",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2574.0,
+        "x2": 2196.0,
+        "y2": 2839.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9608861207962036,
+      "reading_order": 10,
+      "text": "The total number of tourists in Varanasi/ Sarnath recorded 7.0 million in 2015, of which FTA was 9.8%,\nwhich is higher than the entire UP state. The CAGR of the total number of tourists in the past five years\nrecorded 4.7%, but the growth rate has decreased over the years due to the insufficient initiatives taken\nto improve the existing tourism infrastructure."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_7_block_010",
+      "coordinates": {
+        "x1": 1207.0,
+        "y1": 3281.0,
+        "x2": 1277.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7310290932655334,
+      "reading_order": 11,
+      "text": "3-7"
+    }
+  ]
+}

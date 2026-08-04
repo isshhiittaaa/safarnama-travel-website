@@ -1,0 +1,164 @@
+{
+  "page_num": 6,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:23.318870+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 177.0,
+        "x2": 1139.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8674156069755554,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_001",
+      "coordinates": {
+        "x1": 1990.0,
+        "y1": 177.0,
+        "x2": 2194.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8329803943634033,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_002",
+      "coordinates": {
+        "x1": 792.0,
+        "y1": 285.0,
+        "x2": 1666.0,
+        "y2": 1153.0
+      },
+      "layout_tag": "image",
+      "confidence": 0.9487709999084473,
+      "reading_order": 3,
+      "text": "The image displays a stylized graphic map or logo representing a travel route. A dark red outline traces a winding path across a white background. The path connects four specific locations, marked by small circles containing a dot. The text \"THE HERITAGE ARC\" is prominently displayed in a large, serif font across the center of the map. The route begins at \"AGRA\" on the western edge. It travels eastward to \"LUCKNOW,\" then curves south to \"VARANASI\" on the eastern edge. The path then loops back westward, passing through the interior of the map outline. The overall design suggests a heritage or cultural circuit connecting these three major Indian cities."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_003",
+      "coordinates": {
+        "x1": 817.0,
+        "y1": 1177.0,
+        "x2": 1533.0,
+        "y2": 1223.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.7554565668106079,
+      "reading_order": 4,
+      "text": "Source: Department of Tourism, Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_004",
+      "coordinates": {
+        "x1": 920.0,
+        "y1": 1259.0,
+        "x2": 1557.0,
+        "y2": 1313.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8793123960494995,
+      "reading_order": 5,
+      "text": "Figure 3.2.2 The Heritage Arc"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_005",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 1386.0,
+        "x2": 1184.0,
+        "y2": 1439.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.877297580242157,
+      "reading_order": 6,
+      "text": "3.2.2. Promotion of MICE in Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_006",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 1488.0,
+        "x2": 2196.0,
+        "y2": 1686.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9423335194587708,
+      "reading_order": 7,
+      "text": "The **Uttar Pradesh State Tourism Policy 2016** recognizes the importance of MICE Tourism as an\nengine to drive growth. The cities of Noida, Agra, Lucknow and Varanasi have been identified for\npromoting MICE in the state. The department of tourism will take the following initiatives-"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_007",
+      "coordinates": {
+        "x1": 343.0,
+        "y1": 1729.0,
+        "x2": 2195.0,
+        "y2": 1920.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9412506222724915,
+      "reading_order": 8,
+      "text": "i. In collaboration with private entrepreneurs, Convention centres will be established for trade\nfairs, seminars, exhibitions etc. in Noida, Agra, Lucknow and Varanasi which are ideal tourism\ncentres for MICE tourism in Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_008",
+      "coordinates": {
+        "x1": 346.0,
+        "y1": 1966.0,
+        "x2": 2034.0,
+        "y2": 2022.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.865734338760376,
+      "reading_order": 9,
+      "text": "ii. Private entrepreneurs will be provided land on a high priority to invest in Conventions"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_009",
+      "coordinates": {
+        "x1": 346.0,
+        "y1": 2071.0,
+        "x2": 2194.0,
+        "y2": 2193.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9231085777282715,
+      "reading_order": 10,
+      "text": "iii. The new Convention Centres being constructed will be provided rebates in taxes for the first\nfive years of business"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_010",
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 2241.0,
+        "x2": 1769.0,
+        "y2": 2297.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.8703299164772034,
+      "reading_order": 11,
+      "text": "iv. The MICE facilities in the state will be widely promoted and publicized"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_6_block_011",
+      "coordinates": {
+        "x1": 1205.0,
+        "y1": 3283.0,
+        "x2": 1277.0,
+        "y2": 3330.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7394863963127136,
+      "reading_order": 12,
+      "text": "3-6"
+    }
+  ]
+}

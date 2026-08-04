@@ -1,0 +1,203 @@
+{
+  "page_num": 5,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:23.432216+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_000",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 176.0,
+        "x2": 1141.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8659473657608032,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_001",
+      "coordinates": {
+        "x1": 1988.0,
+        "y1": 175.0,
+        "x2": 2196.0,
+        "y2": 225.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8472529053688049,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_002",
+      "coordinates": {
+        "x1": 279.0,
+        "y1": 306.0,
+        "x2": 2199.0,
+        "y2": 775.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.962063193321228,
+      "reading_order": 3,
+      "text": "The state of Uttar Pradesh ranked second in DTV (Domestic Tourist Visit) and third in FTA (Foreign\nTourist Arrival) in 2015. The total number of tourists recorded 207 million in 2015, of which FTA was\nonly 1.5%. The CAGR of the total number of tourists in the past five years recorded 8.55%. The growth\nrate of tourist arrival in 2014 recorded ▴ 19.2%, this is due to Maha Kumbh Mela, a big Hindi festival in\nAllahabad in 2013. That festival is held once in every 12 years and attracted approximately 120 million\npeople in 2013 over a two-month period. Even without considering the special factor of the festival, the\nnumber of tourists shows positive growth."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_003",
+      "coordinates": {
+        "x1": 443.0,
+        "y1": 811.0,
+        "x2": 2037.0,
+        "y2": 865.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8564847707748413,
+      "reading_order": 4,
+      "text": "Table 3.2.1 Share of Top 10 States of India in Number of DTV and FTA in 2015"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_004",
+      "coordinates": {
+        "x1": 746.0,
+        "y1": 892.0,
+        "x2": 912.0,
+        "y2": 934.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.4588196575641632,
+      "reading_order": 5,
+      "text": "Domestic"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_005",
+      "coordinates": {
+        "x1": 447.0,
+        "y1": 927.0,
+        "x2": 1212.0,
+        "y2": 1608.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.9536393880844116,
+      "reading_order": 6,
+      "text": "<table>\n<thead>\n<tr>\n<th>No.</th>\n<th>State</th>\n<th>Number</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Tamil Nadu</td>\n<td>333,459,047</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Uttar Pradesh</td>\n<td>204,888,457</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Andhra Pradesh</td>\n<td>121,591,054</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Karnataka</td>\n<td>119,863,942</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Maharashtra</td>\n<td>103,403,934</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Telengana</td>\n<td>94,516,316</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Madhya Pradesh</td>\n<td>77,975,738</td>\n</tr>\n<tr>\n<td>8</td>\n<td>West Bengal</td>\n<td>70,193,450</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Gujarat</td>\n<td>36,288,463</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Rajasthan</td>\n<td>35,187,573</td>\n</tr>\n<tr>\n<td></td>\n<td>Others</td>\n<td>234,605,820</td>\n</tr>\n<tr>\n<td></td>\n<td>Total</td>\n<td>1,431,973,794</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_006",
+      "coordinates": {
+        "x1": 1584.0,
+        "y1": 892.0,
+        "x2": 1722.0,
+        "y2": 933.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.30699455738067627,
+      "reading_order": 7,
+      "text": "Foreign"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_007",
+      "coordinates": {
+        "x1": 1268.0,
+        "y1": 918.0,
+        "x2": 2032.0,
+        "y2": 1612.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.9345065951347351,
+      "reading_order": 8,
+      "text": "<table>\n<thead>\n<tr>\n<th>No.</th>\n<th>State</th>\n<th>Number</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Tamil Nadu</td>\n<td>4,684,707</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Maharashtra</td>\n<td>4,408,916</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Uttar Pradesh</td>\n<td>3,104,062</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Delhi</td>\n<td>2,379,169</td>\n</tr>\n<tr>\n<td>5</td>\n<td>West Bengal</td>\n<td>1,489,500</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Rajasthan</td>\n<td>1,475,311</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Kerala</td>\n<td>977,479</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Bihar</td>\n<td>923,737</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Karnataka</td>\n<td>636,502</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Goa</td>\n<td>541,480</td>\n</tr>\n<tr>\n<td></td>\n<td>Others</td>\n<td>2,705,300</td>\n</tr>\n<tr>\n<td></td>\n<td>Total</td>\n<td>23,326,163</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_008",
+      "coordinates": {
+        "x1": 458.0,
+        "y1": 1627.0,
+        "x2": 680.0,
+        "y2": 1672.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.802023708820343,
+      "reading_order": 9,
+      "text": "Source: MOT"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_009",
+      "coordinates": {
+        "x1": 676.0,
+        "y1": 1748.0,
+        "x2": 1800.0,
+        "y2": 2480.0
+      },
+      "layout_tag": "chart",
+      "confidence": 0.9575837850570679,
+      "reading_order": 10,
+      "text": "| Year | Indian (Estimated) | Foreigner (Estimated) | Total YoY (%) |\n| :--- | :--- | :--- | :--- |\n| 2011 | ~153,000,000 | < 5,000,000 (~6%) | -4% to 0% |\n| 2012 | ~170,000,000 | < 5,000,000 (< 5%) | +8% to +10% |\n| 2013 | ~230,000,000 | < 5,000,000 (< 5%) | > 60% peak positive growth |\n| 2014 | ~185,000,000 | < 5,000,000 (< 5%) | Drop back near break-even / Negative range (-10% to -20%) |\n| 2015 | ~205,000,000 | Negligible/~5K (+/-<5%) | Recovery trend towards previous levels |"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_010",
+      "coordinates": {
+        "x1": 692.0,
+        "y1": 2518.0,
+        "x2": 1411.0,
+        "y2": 2565.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.5845794677734375,
+      "reading_order": 11,
+      "text": "Source: Department of Tourism, Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_011",
+      "coordinates": {
+        "x1": 616.0,
+        "y1": 2597.0,
+        "x2": 1859.0,
+        "y2": 2652.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8319669365882874,
+      "reading_order": 12,
+      "text": "Figure 3.2.1 The Growth Trends of Tourists in Uttar Pradesh"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_012",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 2728.0,
+        "x2": 677.0,
+        "y2": 2783.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8358343839645386,
+      "reading_order": 13,
+      "text": "(2) Heritage Arc"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_013",
+      "coordinates": {
+        "x1": 280.0,
+        "y1": 2829.0,
+        "x2": 2202.0,
+        "y2": 3093.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9454454183578491,
+      "reading_order": 14,
+      "text": "To boost tourism in the state, the Uttar Pradesh government has established a “Heritage Arc” in 2014\ncovering the cities of Agra, Lucknow and Varanasi, the three most important tourist destinations. The\ngovernment expressed its intent to improve infrastructure including roads, pathways and condition of\nmonuments to attract tourists to promote the “Heritage Arc”."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_5_block_014",
+      "coordinates": {
+        "x1": 1204.0,
+        "y1": 3282.0,
+        "x2": 1278.0,
+        "y2": 3329.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.769890308380127,
+      "reading_order": 15,
+      "text": "3-5"
+    }
+  ]
+}

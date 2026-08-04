@@ -1,0 +1,190 @@
+{
+  "page_num": 1,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-27T00:54:22.696083+00:00",
+  "blocks": [
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.869041383266449,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_001",
+      "coordinates": {
+        "x1": 1989.0,
+        "y1": 176.0,
+        "x2": 2195.0,
+        "y2": 225.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.849878191947937,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_002",
+      "coordinates": {
+        "x1": 342.0,
+        "y1": 308.0,
+        "x2": 2200.0,
+        "y2": 637.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9557718634605408,
+      "reading_order": 3,
+      "text": "• Globally, about half of the conferences are medical conferences. BHU is well known for its\nmedical schools and there are many prominent researchers at BHU. The Faculty of Medicine,\nBHU is now working to host the Annual Conference of ISCCM (Indian Society of Clinical\nCare Medicine) in 2018, but is facing difficulties to secure appropriate facilities. Cooperation\nwith researchers will be a key to invite international conferences."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_003",
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 686.0,
+        "x2": 2195.0,
+        "y2": 1149.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9584836959838867,
+      "reading_order": 4,
+      "text": "• Lucknow is the state capital of Uttar Pradesh. Private companies and government\norganizations in UP are concentrated in Lucknow. Varanasi has few opportunities to host\ncorporate seminars and meetings of government agencies, thus the city needs to make efforts\nin actively attracting events. However, there are cases where companies conduct incentive\ntours combined with sightseeing in Varanasi. Also, due to the increase of infrastructure\nprojects in recent years, donor agencies and infrastructure-related companies are increasingly\nholding seminars."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_004",
+      "coordinates": {
+        "x1": 342.0,
+        "y1": 1196.0,
+        "x2": 2193.0,
+        "y2": 1319.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9164650440216064,
+      "reading_order": 5,
+      "text": "• Also, there are possibilities of academic conferences in India, organized by BHU professors\nspecialized in medical fields."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_005",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 1366.0,
+        "x2": 1669.0,
+        "y2": 1421.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8442845940589905,
+      "reading_order": 6,
+      "text": "(7) Improvement of Tourist Attractions Inside and Outside the City"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_006",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 1467.0,
+        "x2": 2193.0,
+        "y2": 1595.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9178597927093506,
+      "reading_order": 7,
+      "text": "Varanasi has notable tourist attractions such as the Ganges River and Sarnath. However, access, traffic\ncongestions and sanitation need to be improved."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_007",
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 1642.0,
+        "x2": 2194.0,
+        "y2": 1832.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9411559700965881,
+      "reading_order": 8,
+      "text": "• Although MICE is held as a part of business, the probability of attracting participants may\nincrease if an event is held in a famous tourist place. Indeed, many global tourist cities such as\nParis and Vienna are included in the world famous MICE host cities."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_008",
+      "coordinates": {
+        "x1": 343.0,
+        "y1": 1881.0,
+        "x2": 2194.0,
+        "y2": 2004.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9142903089523315,
+      "reading_order": 9,
+      "text": "• Since Varanasi has many tourist attractions, sightseeing programs after conferences or\ncompany incentive tours can be planned."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_009",
+      "coordinates": {
+        "x1": 342.0,
+        "y1": 2050.0,
+        "x2": 2193.0,
+        "y2": 2174.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9206246137619019,
+      "reading_order": 10,
+      "text": "• On the other hand, problems such as inconvenience in access to Varanasi, traffic congestion in\nthe city and poor sanitation have been pointed out. The environment must be improved."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_010",
+      "coordinates": {
+        "x1": 285.0,
+        "y1": 2254.0,
+        "x2": 1354.0,
+        "y2": 2309.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8616381883621216,
+      "reading_order": 11,
+      "text": "5.3. Condition of the Site and Surrounding Area"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_011",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 2356.0,
+        "x2": 904.0,
+        "y2": 2408.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8609575629234314,
+      "reading_order": 12,
+      "text": "5.3.1. Accessibility to the Site"
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_012",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2460.0,
+        "x2": 2195.0,
+        "y2": 3133.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9686891436576843,
+      "reading_order": 13,
+      "text": "The proposed project site is located within the premises of Varanasi Municipal Corporation (hereinafter\nreferred to as “VMC”) and is adjacent to the main building of VMC. The site is approximately 1.7 km\nfrom Varanasi Junction, the main railway station, 2.3 km from the Main Bus Stand and 24 km from Lal\nBahadur Shastry International airport. From a tourism perspective, the site is located close to Varanasi\nOld City (3 Km from Dashaswamedh Ghat) and approximately 15 km from Sarnath Heritage Site. The\nsite is situated off Sigra Chauraha Road, very close to Dr. Sampurnanad Sport Stadium and well linked\nwith public commuter facilities (bus, taxi & auto) within 500m. The proposed underground Metro line\nhas its two proposed stations of Kashi Vidyapeeth and Rathyatra almost equidistant from the site at a\nwalkable distance of 750 m. For all practical purposes, the 18m wide Sigra Chauraha Road (city arterial\nroad) is the main connectivity to the site."
+    },
+    {
+      "block_id": "20260727_c4bec845-c92c-4e7b-bdb5-aae6dfa671b3_1_block_013",
+      "coordinates": {
+        "x1": 1193.0,
+        "y1": 3283.0,
+        "x2": 1288.0,
+        "y2": 3329.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.7234039306640625,
+      "reading_order": 14,
+      "text": "5-16"
+    }
+  ]
+}

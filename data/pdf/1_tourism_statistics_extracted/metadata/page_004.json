@@ -1,0 +1,216 @@
+{
+  "page_num": 4,
+  "image_width": 2481,
+  "image_height": 3509,
+  "created_at": "2026-07-26T16:24:23.270485+00:00",
+  "blocks": [
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_000",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 176.0,
+        "x2": 1140.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8689789772033691,
+      "reading_order": 1,
+      "text": "Data Collection Survey for Varanasi Convention Centre"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_001",
+      "coordinates": {
+        "x1": 1989.0,
+        "y1": 176.0,
+        "x2": 2194.0,
+        "y2": 224.0
+      },
+      "layout_tag": "header",
+      "confidence": 0.8501408696174622,
+      "reading_order": 2,
+      "text": "Final Report"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_002",
+      "coordinates": {
+        "x1": 342.0,
+        "y1": 308.0,
+        "x2": 2195.0,
+        "y2": 499.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9367097616195679,
+      "reading_order": 3,
+      "text": "- To spread knowledge to conference industry personnel through educational programs, seminars,\ngroup discussions, courses of study and exchange of visits with Indian Associations /\nOrganizations"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_003",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 546.0,
+        "x2": 2195.0,
+        "y2": 739.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9421617984771729,
+      "reading_order": 4,
+      "text": "ICPB recognizes the challenge that exists in the form of a lack of research on the size of the MICE\nindustry in India such as its growth, trends and outlook. It is planning to develop MICE infrastructure by\ncommissioning a research on the industry in 2017."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_004",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 786.0,
+        "x2": 1199.0,
+        "y2": 839.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8557422161102295,
+      "reading_order": 5,
+      "text": "(3) MDA (Market Development Assistance)"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_005",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 887.0,
+        "x2": 2196.0,
+        "y2": 1220.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9551713466644287,
+      "reading_order": 6,
+      "text": "MOT has announced the “MDA (Market Development Assistance) Scheme” to “Active Members” of\nICPB to aid in bidding for International Conferences / Conventions, thereby bringing more MICE\nbusiness to the country. Under the scheme, associations / societies would be given financial support on\nwinning the bid or for obtaining second and third positions in the bidding process, subject to the terms\nand conditions. The financial assistance under the scheme is shown in the following table:"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_006",
+      "coordinates": {
+        "x1": 820.0,
+        "y1": 1255.0,
+        "x2": 1658.0,
+        "y2": 1307.0
+      },
+      "layout_tag": "image-caption",
+      "confidence": 0.8572956323623657,
+      "reading_order": 7,
+      "text": "Table 3.1.3 Financial Assistance of MDA"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_007",
+      "coordinates": {
+        "x1": 311.0,
+        "y1": 1337.0,
+        "x2": 2164.0,
+        "y2": 1800.0
+      },
+      "layout_tag": "table",
+      "confidence": 0.885864794254303,
+      "reading_order": 8,
+      "text": "<table>\n<thead>\n<tr>\n<th colspan=\"2\">Category I (500 pax and above):</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>i)</td>\n<td>INR 450,000 for winner of the bid for a Conference/Convention in India of 500 pax and above.</td>\n</tr>\n<tr>\n<td>ii)</td>\n<td>INR 150,000 for the bidder who comes in at second or third position among the bidders for<br/>Conference/Convention of 500 pax and above.</td>\n</tr>\n</tbody>\n<thead>\n<tr>\n<th colspan=\"2\">Category II (200 – 500 pax):</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>i)</td>\n<td>INR 250,000 for winner of the bid for holding the Conference/Convention in India of 200 to 500 pax.</td>\n</tr>\n<tr>\n<td>ii)</td>\n<td>INR 100,000 for bidder who comes in at second or third position for Conference/Convention in India<br/>of 200 and 500 pax.</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_008",
+      "coordinates": {
+        "x1": 314.0,
+        "y1": 1813.0,
+        "x2": 534.0,
+        "y2": 1857.0
+      },
+      "layout_tag": "footnote",
+      "confidence": 0.7690223455429077,
+      "reading_order": 9,
+      "text": "Source: MOT"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_009",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 1937.0,
+        "x2": 1490.0,
+        "y2": 1989.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8542526364326477,
+      "reading_order": 10,
+      "text": "(4) Harmonized Master List of Infrastructure Sub Sectors"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_010",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2038.0,
+        "x2": 2198.0,
+        "y2": 2438.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9611590504646301,
+      "reading_order": 11,
+      "text": "The Ministry of Finance, GOI on 7th October, 2013 publicized the Harmonized Master List of\nInfrastructure Sub-Sectors to boost supply of hotel rooms and convention centres in the country. Hotels\nwith project cost of more than INR 2 billion and convention centres with project cost of more than INR\n3 billion have become eligible for VGF (Viability Gap Funding) and lower interest rates on government\nbank loans. Hotels and convention centres have become recognized as important infrastructure in\naddition to transport, energy, water sanitation and communication."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_011",
+      "coordinates": {
+        "x1": 284.0,
+        "y1": 2551.0,
+        "x2": 1608.0,
+        "y2": 2604.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8503724336624146,
+      "reading_order": 12,
+      "text": "3.2. Tourism Policy and MICE Promotion in Uttar Pradesh State"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_012",
+      "coordinates": {
+        "x1": 286.0,
+        "y1": 2653.0,
+        "x2": 1335.0,
+        "y2": 2707.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8620755672454834,
+      "reading_order": 13,
+      "text": "3.2.1. Tourism Development in Uttar Pradesh State"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_013",
+      "coordinates": {
+        "x1": 287.0,
+        "y1": 2755.0,
+        "x2": 1306.0,
+        "y2": 2810.0
+      },
+      "layout_tag": "section-title",
+      "confidence": 0.8497307896614075,
+      "reading_order": 14,
+      "text": "(1) Tourism Development in Uttar Pradesh State"
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_014",
+      "coordinates": {
+        "x1": 283.0,
+        "y1": 2858.0,
+        "x2": 2194.0,
+        "y2": 3119.0
+      },
+      "layout_tag": "paragraph",
+      "confidence": 0.9515410661697388,
+      "reading_order": 15,
+      "text": "Located in the northern part of India, neighbouring the capital of India, New Delhi, Uttar Pradesh is one\nof the most popular and an established tourist destinations for Indians and non-Indians. Uttar Pradesh is\nknown for its rich culture and tradition. Agra is famous for monuments such as the Taj Mahal. Varanasi\nand Allahabad are holy cities for Hindus, and Sarnath is important for Buddhists."
+    },
+    {
+      "block_id": "20260726_ee793a2d-3b21-491e-acf2-0bffa5f48f31_4_block_015",
+      "coordinates": {
+        "x1": 1205.0,
+        "y1": 3284.0,
+        "x2": 1276.0,
+        "y2": 3328.0
+      },
+      "layout_tag": "page-number",
+      "confidence": 0.761523425579071,
+      "reading_order": 16,
+      "text": "3-4"
+    }
+  ]
+}

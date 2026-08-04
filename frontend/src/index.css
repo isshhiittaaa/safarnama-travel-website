@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #FAF9F6;
+  --color-paper-dim: #F1EFE8;
+  --color-surface: #FFFFFF;
+  --color-ink: #171714;
+  --color-ink-soft: #605C4F;
+  --color-indigo: #16223F;
+  --color-indigo-soft: #24345C;
+  --color-teal: #0D524D;
+  --color-teal-soft: #E7F2F0;
+  --color-marigold: #C77B1E;
+  --color-marigold-soft: #FBF0DF;
+  --color-rose: #9E4038;
+  --color-rose-soft: #F8EAE8;
+  --color-line: rgba(23,23,20,0.10);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display { font-family: 'Fraunces', serif; }
+
+.scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(23,23,20,0.15);
+  border-radius: 999px;
+}
+
+.fade-in { animation: fadeIn .35s ease both; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.dot-pulse span { animation: dotPulse 1.2s infinite ease-in-out; }
+.dot-pulse span:nth-child(2) { animation-delay: .15s; }
+.dot-pulse span:nth-child(3) { animation-delay: .3s; }
+@keyframes dotPulse {
+  0%, 60%, 100% { opacity: .25; transform: translateY(0); }
+  30% { opacity: 1; transform: translateY(-2px); }
+}
